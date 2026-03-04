@@ -4,6 +4,9 @@ description: "Image gallery for manuscript studies"
 baseurl: "/palaeography"
 url: "https://sjabrookes.github.io"
 
+include:
+  - _pages
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
