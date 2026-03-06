@@ -7,3 +7,21 @@ main:
     url: /carolineminuscule/
   - title: "Gothic"
     url: /gothic/
+
+scripts:
+  - title: "Roman"
+    children:
+      - title: "National Scripts"
+        url: /national/
+  - title: "Insular"
+    children:
+      - title: "Overview"
+        url: /insular/
+  - title: "Caroline Minuscule"
+    children:
+      - title: "Overview"
+        url: /carolineminuscule/
+  - title: "Gothic"
+    children:
+      - title: "Overview"
+        url: /gothic/
