@@ -3,7 +3,11 @@ main:
 scripts:
   - title: "Roman"
     children:
-      - title: "National Scripts"
+      - title: "Examples
+        url: /roman/
+  - title: "National Scripts"
+    children:
+      - title: "Examples
         url: /national/
   - title: "Insular Scripts"
     children:
