@@ -28,14 +28,14 @@ In general, the diamond-shaped serifs are only added to the tops of minims
 
 Minims are rounded at the bottom
 
-<a id="figure-5"><b>Figure 5: Luttrell Psalter</b></a>
+<a id="figure-5"><b>Figure 5: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r)</b></a>
 
 <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<a id="figure-6"><b>Figure 6: Luttrell Psalter</b></a>
+<a id="figure-6"><b>Figure 6: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r)</b></a>
 
 <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<a id="figure-7"><b>Figure 7: Luttrell Psalter</b></a>
+<a id="figure-7"><b>Figure 7: Luttrell Psalter (British Library, Add. MS. 42130, fol. 68v)</b></a>
 
 <img src="/palaeography/images/Luttrell_Psalter_fol68v_detail_3.jpg" width="700" style="padding: 10px 0px 10px 20px;">
