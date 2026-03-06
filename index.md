@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Palaeography"
+title: "Palaeography: An Introduction"
 permalink: /
 ---
 
-This site hosts manuscript images accompanying the article. 
-Use the navigation above to browse by script type.
+Manuscript examples to accompany ‘Palaeography for Art Historians: Why Letter-forms Matter’ 
+in <i>Medieval Book Illumination: An Introduction</i>, ed. by Adam S. Cohen and Sonja Drimmer (De Gruyter). 
+Use the headings above to browse by section and script type.
