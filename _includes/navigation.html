@@ -1,0 +1,18 @@
+<nav>
+  <ul>
+    {% for nav in site.data.navigation %}
+      {% if nav.subcategories %}
+        <li>
+          <a href="{{ nav.href }}">{{ nav.title }} ▼</a>
+          <ul>
+            {% for sub in nav.subcategories %}
+              <li><a href="{{ sub.subhref }}">{{ sub.subtitle }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% else %}
+        <li><a href="{{ nav.href }}">{{ nav.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
