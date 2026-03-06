@@ -1,5 +1,20 @@
-main:
-  - title: "Caroline Minuscule"
-    url: /carolineminuscule/
-  - title: "Gothic"
-    url: /gothic/
+## Scripts
+
+<details>
+  <summary><a href="/roman/">Roman</a></summary>
+  <ul>
+    <li><a href="/national/">National Scripts</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="/insular/">Insular</a></summary>
+</details>
+
+<details>
+  <summary><a href="/carolineminuscule/">Caroline Minuscule</a></summary>
+</details>
+
+<details>
+  <summary><a href="/gothic/">Gothic</a></summary>
+</details>
