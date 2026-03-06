@@ -1,12 +1,4 @@
 main:
-  - title: "Roman"
-    url: /roman/
-  - title: "Insular"
-    url: /insular/
-  - title: "Caroline Minuscule"
-    url: /carolineminuscule/
-  - title: "Gothic"
-    url: /gothic/
 
 scripts:
   - title: "Roman"
