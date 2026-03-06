@@ -16,3 +16,5 @@ scripts:
     children:
       - title: "Examples"
         url: /gothic/
+      - title: "Full folios"
+        url: /gothicfull/
