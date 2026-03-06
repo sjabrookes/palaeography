@@ -3,11 +3,11 @@ main:
 scripts:
   - title: "Roman"
     children:
-      - title: "Examples
+      - title: "Examples"
         url: /roman/
   - title: "National Scripts"
     children:
-      - title: "Examples
+      - title: "Examples"
         url: /national/
   - title: "Insular Scripts"
     children:
@@ -16,6 +16,7 @@ scripts:
   - title: "Caroline Minuscule"
     children:
       - title: "Examples"
+        url: /carolineminuscule/
   - title: "Gothic"
     children:
       - title: "Examples"
