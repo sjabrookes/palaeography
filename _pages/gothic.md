@@ -15,7 +15,7 @@ rare uias eius. <br>
 <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
 in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br
 <b>P</b>er uiscera misericordie dei n<i>ost</i>ri; in<br>
-quib<i></i>us] uisitauit nos oriens ex alto.</p>
+quib<i>us</i> uisitauit nos oriens ex alto.</p>
 
 <a id="figure-1"><b>Figure 1: Gothic Textura Prescissa</b></a>
 
