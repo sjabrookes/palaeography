@@ -11,9 +11,10 @@ permalink: /gothic/
 <p>Provenance: England (London/Westminster or East Anglia?), between 1310 and 1320</p>
 
 <p>preibis enim ante faciem domini · pa-<br>
-rare uias eius. Ad dandam sciencia[m] salutis plebi ei[us];<br>
+rare uias eius. <br>
+<b>A</b>d dandam sciencia[m] salutis plebi ei[us];<br>
 in remissione[m] p[e]cc[at]orum eorum<br> 
-  Per uiscera misericordie dei n[ost]ri; in<br>
+<b>P</b>er uiscera misericordie dei n[ost]ri; in<br>
 quib[us] uisitauit nos oriens ex alto.</p>
 
 <a id="figure-1"><b>Figure 1: Gothic Textura Prescissa</b></a>
