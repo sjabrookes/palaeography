@@ -8,7 +8,7 @@ permalink: /gothic/
 <p>Provenance: England (London/Westminster or East Anglia?), between 1310 and 1320</p>
 
 <a href="/palaeography/images/QMP_fol296v-hires.jpg" target="_blank" rel="noopener noreferrer">
-  <img src="/palaeography/images/QMP_fol_296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+  <img src="/palaeography/images/QMP_MS_2_B_vii_fol_296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
 
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
