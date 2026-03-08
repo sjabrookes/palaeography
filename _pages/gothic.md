@@ -3,7 +3,7 @@ layout: single
 title: "Gothic Examples"
 permalink: /gothic/
 ---
-
+Bah, bah, blobby!!!! daddy and azi goo goongadfgdvwhjefdka
 <a id="figure-1"><b>Figure G1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 
 <a id="thumb-link" href="/palaeography/images/QMP_fol296v-full.jpg">
