@@ -21,7 +21,7 @@ permalink: /gothic/
 
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<div style="background-color: powderblue; padding: 10px 20px;">
+<div style="background-color: powderblue; padding: 10px 10px;">
 <p>preibis enim ante faciem domini · pa-<br>
 rare uias eius. <br>
 <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
@@ -29,22 +29,25 @@ in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br>
 <b>P</b>er uiscera misericordie dei n<i>ost</i>ri; in<br>
 quib<i>us</i> uisitauit nos oriens ex alto.</p>
 </div>
+<br>
 
 <a id="figure-G2"><b>Figure G2: Gothic Textura Prescissa</b></a>
 
 <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<div style="background-color: powderblue; padding: 10px 20px;">
+<div style="background-color: powderblue; padding: 10px 10px;">
 <p>partibur siccimam</p>
 </div>
+<br>
 
 The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
 
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<div style="background-color: powderblue; padding: 10px 20px;">
+<div style="background-color: powderblue; padding: 10px 10px;">
 <p>domini | preibis | misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
 </div>
+<br>
 
 The bottom of minims end slightly concave on the line (The Queen Mary Psalter, fol. 296v)
 
