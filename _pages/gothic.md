@@ -33,7 +33,6 @@ permalink: /gothic/
   </div>
 
   </div>
-  <br>
 
 <a id="figure-G2"><b>Figure G2: Gothic Textura Prescissa</b></a>
 
