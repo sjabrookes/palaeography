@@ -3,6 +3,7 @@ layout: single
 title: "Gothic Examples"
 permalink: /gothic/
 ---
+<b>Bidge bodge boodle...</b>
 
 <a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 
