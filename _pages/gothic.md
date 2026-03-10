@@ -7,7 +7,7 @@ permalink: /gothic/
 <a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 
 <a id="thumb-link" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
-  <img src="/palaeography/images/Luttrell_Psalter_fol203r.thumb.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+  <img src="/palaeography/images/Luttrell_Psalter_fol203r_thumbnail.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
 
 <div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
