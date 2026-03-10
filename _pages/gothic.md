@@ -12,9 +12,9 @@ permalink: /gothic/
   <button onclick="
     var d = this.nextElementSibling;
     d.style.display = (d.style.display === 'none') ? 'block' : 'none';
-    this.textContent = (d.style.display === 'none') ? 'Reveal text' : 'Hide text';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
   " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
-    Reveal text
+    Show transcription
   </button>
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
