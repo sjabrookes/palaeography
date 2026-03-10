@@ -25,6 +25,8 @@ cos tuos: sabellum pedum tuorum.</p>
   </div>
   <br>
 
+  <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
 <a id="figure-1"><b>Figure G1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
