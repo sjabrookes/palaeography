@@ -31,17 +31,16 @@ permalink: /gothic/
   
   <br>
 
-  <a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
+<a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 
 <a id="thumb-link" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_thumbnail.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
 
-  <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+<img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-{::nomarkdown}
 <a id="figure-2"><b>Figure G2: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
-
+{::nomarkdown}
 <a id="thumb-link" href="/palaeography/images/QMP_fol296v-full.jpg">
   <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
