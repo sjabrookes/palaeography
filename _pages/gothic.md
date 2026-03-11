@@ -7,7 +7,6 @@ permalink: /gothic/
 {::nomarkdown}
 
 <a id="figure-G1"><b>Figure G1: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
-
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -22,11 +21,11 @@ permalink: /gothic/
   <div style="display: none; background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">
       <b>E</b>t percussit ínímícos suos ín pos-<br>
-      teriora: opprobrium sempiternu<i>m</i><br>
-      
+      teriora: opprobrium sempiternu<i>m</i>
     </p>
   </div>
 </div>
+
 <br>
 
 <a id="figure-G2"><b>Figure G2: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
@@ -65,9 +64,11 @@ permalink: /gothic/
       window.open(this.href, '_blank');
     });
   </script>
+
+  <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px; display: block;">
 </div>
 
-<img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px; display: block;">
+<br>
 
 <a id="figure-G4"><b>Figure G4: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
@@ -103,23 +104,10 @@ permalink: /gothic/
 
 <br>
 
-
-*****
-
-<a id="figure-G5-prescissa"><b>Figure G5: Gothic Textura Prescissa</b></a>
+<a id="figure-G5"><b>Figure G5: Gothic Textura Prescissa</b></a>
 <p>(Luttrell Psalter, fol. 109r [check])</p>
-
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
-  </a>
-  <script>
-    document.getElementById('thumb-link-2').addEventListener('click', function(e) {
-      e.preventDefault();
-      window.open(this.href, '_blank');
-    });
-  </script>
-
-  <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <button onclick="
     var d = this.nextElementSibling;
@@ -130,23 +118,18 @@ permalink: /gothic/
   </button>
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
-    <p style="margin-bottom: 0;">preibis enim ante faciem domini · pa-<br>
-    rare uias eius.<br>
-    <b>partibor siccimam<br>
-
-     <p>The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>;
-  the long <b>s</b>; and the hairline stroke ('tittle') placed over the second <b>i</b> in 'siccimam' in order to distinguish it from the <b>m</b> which follows.</p>
-
-    
+    <p style="margin-bottom: 0;"><b>p</b>artibor siccimam</p>
   </div>
 
-    <img src="/palaeography/images/prescissa-bilinear.jpg" width="700" style="padding: 10px 0px; display: block;">
+  <p>The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>;
+  the long <b>s</b>; and the hairline stroke ('tittle') placed over the second <b>i</b> in 'siccimam' in order to distinguish it from the <b>m</b> which follows.</p>
 
+  <img src="/palaeography/images/prescissa-bilinear.jpg" width="700" style="padding: 10px 0px; display: block;">
 </div>
 
 <br>
 
-<a id="figure-G2-qmp-examples"><b>Figure G2: The Queen Mary Psalter examples</b></a>
+<a id="figure-G6"><b>Figure G6: The Queen Mary Psalter examples</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -159,7 +142,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G3"><b>Figure G3: Quadrata</b></a>
+<a id="figure-G7"><b>Figure G7: Quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>A diamond-shaped serif has been added to the top and bottom of each minim</p>
@@ -167,7 +150,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G4"><b>Figure G4: Semi-quadrata</b></a>
+<a id="figure-G8"><b>Figure G8: Semi-quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/semi-quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>In general, the diamond-shaped serifs are only added to the tops of minims</p>
@@ -175,7 +158,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G5"><b>Figure G5: Rotunda</b></a>
+<a id="figure-G9"><b>Figure G9: Rotunda</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/rotunda.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>Minims are rounded at the bottom</p>
@@ -183,14 +166,14 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G7"><b>Figure G7: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r)</b></a>
+<a id="figure-G10"><b>Figure G10: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_2.jpg" width="700" style="padding: 10px 0px; display: block;">
 </div>
 
 <br>
 
-<a id="figure-G8"><b>Figure G8: Luttrell Psalter (British Library, Add. MS. 42130, fol. 68v)</b></a>
+<a id="figure-G11"><b>Figure G11: Luttrell Psalter (British Library, Add. MS. 42130, fol. 68v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol68v_detail_3.jpg" width="700" style="padding: 10px 0px; display: block;">
 </div>
