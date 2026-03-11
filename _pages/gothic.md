@@ -6,6 +6,39 @@ permalink: /gothic/
 
 {::nomarkdown}
 
+
+
+<a id="figure-G1"><b>Figure G1: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
+
+<div style="max-width: 700px; margin: 0; padding: 0;">
+  <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
+
+  <button onclick="
+    var d = this.nextElementSibling;
+    d.style.display = (d.style.display === 'none') ? 'block' : 'none';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+    Show transcription
+  </button>
+
+  <div style="display: none; background-color: powderblue; padding: 10px;">
+    <p style="margin-bottom: 0;">
+      <b>E</b>t percussit inimicos suos ín pos-<br>
+      teriora; opprobrium sempiternu<i>m</i><br>
+      
+    </p>
+  </div>
+</div>
+
+<br>
+
+
+<div style="max-width: 700px; margin: 0; padding: 0;">
+  
+</div>
+
+<br>
+
 <a id="figure-G1-detail"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -129,13 +162,6 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/rotunda.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>Minims are rounded at the bottom</p>
-</div>
-
-<br>
-
-<a id="figure-G6"><b>Figure G6: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r)</b></a>
-<div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 </div>
 
 <br>
