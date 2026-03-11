@@ -23,15 +23,12 @@ permalink: /gothic/
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">
-      <b>E</b>t percussit inimicos suos ín pos-<br>
+      <b>E</b>t percussit ínímícos suos ín pos-<br>
       teriora; opprobrium sempiternu<i>m</i><br>
       
     </p>
   </div>
 </div>
-
-<br>
-
 
 <div style="max-width: 700px; margin: 0; padding: 0;">
   
