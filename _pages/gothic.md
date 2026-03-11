@@ -124,7 +124,7 @@ permalink: /gothic/
   <p>The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>;
   the long <b>s</b>; and the hairline stroke ('tittle') placed over the second <b>i</b> in 'siccimam' in order to distinguish it from the <b>m</b> which follows.</p>
 
-  <img src="/palaeography/images/prescissa-bilinear.jpg" width="700" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/prescissa_bilinear.jpg" width="700" style="padding: 10px 0px; display: block;">
 </div>
 
 <br>
