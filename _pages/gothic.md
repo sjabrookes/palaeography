@@ -8,6 +8,27 @@ permalink: /gothic/
 
 <a id="figure-G1"><b>Figure G1: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
+  <img src="/palaeography/images/Luttrell_Psalter_minims_fol.21v" width="700" style="padding: 10px 0px; display: block;">
+
+  <button onclick="
+    var d = this.nextElementSibling;
+    d.style.display = (d.style.display === 'none') ? 'block' : 'none';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+    Show transcription
+  </button>
+
+  <div style="display: none; background-color: powderblue; padding: 10px;">
+    <p style="margin-bottom: 0;">
+      ínímícum meum
+    </p>
+  </div>
+</div>
+
+<br>
+
+<a id="figure-G1"><b>Figure G1: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
+<div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <button onclick="
