@@ -6,9 +6,9 @@ permalink: /gothic/
 
 {::nomarkdown}
 
-<a id="figure-G1"><b>Figure G1: Luttrell Psalter (British Library, Add. MS. 42130, fol. 21v [detail])</b></a>
+<a id="figure-G1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 21v [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/Luttrell_Psalter_minims_fol21v" width="700" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/Luttrell_Psalter_minims_fol21v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">
@@ -25,9 +25,28 @@ permalink: /gothic/
   </button>
 </div>
 
+<a id="figure-G1"><b>Figure G1: The Queen Mary Psalter (British Library, Add. MS. 42130, fol. 296v [detail])</b></a>
+<div style="max-width: 700px; margin: 0; padding: 0;">
+  <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
+
+  <div style="display: none; background-color: powderblue; padding: 10px;">
+    <p style="margin-bottom: 0;">
+      domini
+    </p>
+  </div>
+
+  <button onclick="
+    var d = this.previousElementSibling;
+    d.style.display = (d.style.display === 'none') ? 'block' : 'none';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+    Show transcription
+  </button>
+</div>
+
 <br>
 
-<a id="figure-G1b"><b>Figure G1: Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
+<a id="figure-G1b"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 
