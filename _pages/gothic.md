@@ -8,7 +8,7 @@ permalink: /gothic/
 
 <a id="figure-G1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 21v [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="250" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="400" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">
