@@ -95,13 +95,13 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G2"><b>Figure G2: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G2"><b>Figure G2: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol202v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-      <b>animam meam.<br>
+      animam meam.<br>
       <b>G</b>loria patri-<br>
       Dominus Galfridus louterell me fieri<br>
       fecit
