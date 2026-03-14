@@ -181,7 +181,7 @@ permalink: /gothic/
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="background-color: powderblue; padding: 10px; display: inline-block;">
-    <p style="margin-bottom: 0;">domini | preibis | misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
+    <p style="margin-bottom: 0;">misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
   </div>
 
   <p>The bottom of minims end slightly concave on the line. Note the characteristic 'biting' in 'domini' where the right-facing curve of <b>d</b> is fused with the left-facing curve of <b>o</b>; the 2-shaped <b>r</b>, e.g. after <b>p</b> in 'preibus' and <b>o</b> in 'misericordie'; the variant forms of <b>d</b>, with a straight-backed form in 'misericordie' and, in very close proximity, a curve-backed form in 'dei'; and the slight differences in <b>m</b> in the final letters of 'p<i>e</i>cc<i>at</i>orum' and 'eorum' (The Queen Mary Psalter, fol. 296v)</p>
