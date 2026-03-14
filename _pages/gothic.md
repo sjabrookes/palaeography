@@ -76,7 +76,7 @@ permalink: /gothic/
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-      <b>D</b>ixit dominus domino<br>
+      <b>D</b>ixit domínus domíno<br>
       meo: sede a dextris me-<br>
       is.<br>
       <b>D</b>onec ponam inimi-<br>
@@ -101,7 +101,7 @@ permalink: /gothic/
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-      animam meam.<br>
+      anímam meam.<br>
       <b>G</b>loria patri<br>
       D<i>omi</i>n<i>u</i>s Galfridus louterell me fieri<br>
       fecit
