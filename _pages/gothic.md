@@ -150,11 +150,23 @@ permalink: /gothic/
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-    <b>Tecum</b> principium ín die uirtutis<br> 
+      <b>Tecum</b> principium ín die uirtutis<br>
       tue ín splendorib<i>us</i> sanctorum: ex ute-<br>
       ro, ante luciferum, genui te.
     </p>
   </div>
+
+  <button onclick="
+    var d = this.previousElementSibling;
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
+    Show transcription
+  </button>
+</div>
+
+<br>
+
 
 <br>
 
