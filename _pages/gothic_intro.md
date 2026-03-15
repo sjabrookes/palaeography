@@ -161,7 +161,7 @@ permalink: /gothic_intro/
 <br>
 
 
-<a id="figure-G11"><b>Figure G11: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+<a id="figure-G8"><b>Figure G8: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
     <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -211,7 +211,7 @@ permalink: /gothic_intro/
   
 <br>
 
-<a id="figure-G11"><b>Figure G11: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G10"><b>Figure G10: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol202v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
