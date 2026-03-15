@@ -171,24 +171,10 @@ permalink: /gothic/
       window.open(this.href, '_blank');
     });
   </script>
-
+  
 <br>
 
-<a id="figure-G9"><b>Figure G10: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
-<div style="max-width: 700px; margin: 0; padding: 0;">
-  <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
-    <img src="/palaeography/images/Luttrell_Psalter_fol203r_thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
-  </a>
-  <script>
-    document.getElementById('thumb-link-1').addEventListener('click', function(e) {
-      e.preventDefault();
-      window.open(this.href, '_blank');
-    });
-  </script>
-
-<br>
-
-<a id="figure-G11"><b>Figure G11: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+<a id="figure-G10"><b>Figure G10: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
     <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -224,7 +210,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-12"><b>Figure G12: Gothic Textura Prescissa</b></a>
+<a id="figure-11"><b>Figure G11: Gothic Textura Prescissa</b></a>
 <p>(Luttrell Psalter, fol. 109r [check])</p>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -249,7 +235,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G13"><b>Figure G13: The Queen Mary Psalter examples</b></a>
+<a id="figure-G12"><b>Figure G12: The Queen Mary Psalter examples</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -262,7 +248,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G14"><b>Figure G14: Quadrata</b></a>
+<a id="figure-G13"><b>Figure G13: Quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>A diamond-shaped serif has been added to the top and bottom of each minim</p>
@@ -270,7 +256,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G15"><b>Figure G15: Semi-quadrata</b></a>
+<a id="figure-G14"><b>Figure G14: Semi-quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/semi-quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>In general, the diamond-shaped serifs are only added to the tops of minims</p>
@@ -278,7 +264,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G16"><b>Figure G16: Rotunda</b></a>
+<a id="figure-G15"><b>Figure G15: Rotunda</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/rotunda.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>Minims are rounded at the bottom</p>
