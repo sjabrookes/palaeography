@@ -150,9 +150,9 @@ permalink: /gothic/
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-      <b>Tecum</b> principium ín die uirtutis<br>
+      <b>T</b>ecum principium ín die uirtutis<br>
       tue ín splendorib<i>us</i> sanctorum: ex ute-<br>
-      ro, ante luciferum, genui te.
+      ro ante luciferum genui te.
     </p>
   </div>
 
