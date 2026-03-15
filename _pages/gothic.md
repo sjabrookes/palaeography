@@ -153,6 +153,8 @@ permalink: /gothic/
     });
   </script>
 
+  </div>
+
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
@@ -181,7 +183,7 @@ permalink: /gothic/
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
-    <p style="margin-bottom: 0;"><b>p</b>artibor siccimam</p>
+    <p style="margin-bottom: 0;"><b>p</b>artibor siccímam</p>
   </div>
 
   <button onclick="
