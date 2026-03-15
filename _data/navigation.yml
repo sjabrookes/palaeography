@@ -21,5 +21,5 @@ scripts:
     children:
       - title: "Intro:Figures G1-G10"
         url: /gothic_intro/
-      - title: "Grade: Figures G11-G20"
+      - title: "Grades: Figures G11-G20"
         url: /gothic_grades/
