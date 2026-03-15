@@ -52,15 +52,9 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
 <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_2b.jpg" width="700" style="padding: 10px 0px; display: block;">
   
-  <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_2.jpg" width="700" style="padding: 10px 0px; display: block;">
-
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-      <b>T</b>ribulacionem 7 dolorem ínuení; 7<br>
-      nomen domíní ínuocauí<br>
-      is.<br>
-      <b>D</b>onec ponam inimi-<br>
-      cos tuos: sabellum pedum tuorum.
+      <b>T</b>ribulacionem 7 dolorem<br>
     </p>
   </div>
 
