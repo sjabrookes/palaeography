@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gothic Grade"
-permalink: /gothic/
+permalink: /gothic_grades/
 ---
 
 {::nomarkdown}
