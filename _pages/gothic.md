@@ -167,9 +167,6 @@ permalink: /gothic/
 
 <br>
 
-
-<br>
-
 <a id="figure-G4"><b>Figure G4: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
