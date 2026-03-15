@@ -71,7 +71,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-43"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-4"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -96,7 +96,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G4"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
+<a id="figure-G5"><b>Figure G5: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -118,7 +118,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G5"><b>Figure G5: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G6"><b>Figure G6: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -141,7 +141,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G2"><b>Figure G2: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G7"><b>Figure G7: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol202v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -164,7 +164,7 @@ permalink: /gothic/
 </div>
 
 <br>
-<a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G8"><b>Figure G8: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_full_fol145r.jpg">
     <img src="/palaeography/images/Luttrell_Psalter_thumbnail_fol145r.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -178,7 +178,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G4"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G9"><b>Figure G10: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
     <img src="/palaeography/images/Luttrell_Psalter_fol203r_thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -192,7 +192,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G5"><b>Figure G5: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+<a id="figure-G11"><b>Figure G11: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
     <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -228,7 +228,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-"><b>Figure G5: Gothic Textura Prescissa</b></a>
+<a id="figure-12"><b>Figure G12: Gothic Textura Prescissa</b></a>
 <p>(Luttrell Psalter, fol. 109r [check])</p>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -253,7 +253,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G6"><b>Figure G6: The Queen Mary Psalter examples</b></a>
+<a id="figure-G13"><b>Figure G13: The Queen Mary Psalter examples</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -266,7 +266,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G7"><b>Figure G7: Quadrata</b></a>
+<a id="figure-G14"><b>Figure G14: Quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>A diamond-shaped serif has been added to the top and bottom of each minim</p>
@@ -274,7 +274,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G8"><b>Figure G8: Semi-quadrata</b></a>
+<a id="figure-G15"><b>Figure G15: Semi-quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/semi-quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>In general, the diamond-shaped serifs are only added to the tops of minims</p>
@@ -282,7 +282,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G9"><b>Figure G9: Rotunda</b></a>
+<a id="figure-G16"><b>Figure G16: Rotunda</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/rotunda.jpg" width="700" style="padding: 10px 0px; display: block;">
   <p>Minims are rounded at the bottom</p>
