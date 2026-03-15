@@ -50,7 +50,7 @@ permalink: /gothic/
 
 <a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/imagesLuttrell_Psalter_fol145r_detail_2.jpg" width="700" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_2.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
@@ -71,7 +71,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-43"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px; display: block;">
 
