@@ -71,10 +71,6 @@ permalink: /gothic/
   </button>
 </div>
 
-
-
-***
-
 <a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -182,7 +178,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G4"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
     <img src="/palaeography/images/Luttrell_Psalter_fol203r_thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -196,7 +192,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G4"><b>Figure G4: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+<a id="figure-G5"><b>Figure G5: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
     <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -232,7 +228,7 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G5"><b>Figure G5: Gothic Textura Prescissa</b></a>
+<a id="figure-"><b>Figure G5: Gothic Textura Prescissa</b></a>
 <p>(Luttrell Psalter, fol. 109r [check])</p>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
