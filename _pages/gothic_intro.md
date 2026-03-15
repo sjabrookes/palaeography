@@ -120,8 +120,9 @@ permalink: /gothic_intro/
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
-      <b>E</b>t percussit ínímícos suos ín pos-<br>
-      teriora: opprobrium sempiternu<i>m</i>
+      singulas noctes lectum meum lacri-<br>
+      mís meis stratum meum rigabo.<br>
+      <b>T</b>ubatus est a furore oculus meus
     </p>
   </div>
 
