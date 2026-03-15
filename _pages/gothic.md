@@ -144,8 +144,17 @@ permalink: /gothic/
     });
   </script>
 
+<a id="figure-G2"><b>Figure G2: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px; display: block;">
-</div>
+
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
+    <p style="margin-bottom: 0;">
+    <b>Tecum</b> principium ín die uirtutis<br> 
+      tue ín splendorib<i>us</i> sanctorum: ex ute-<br>
+      ro, ante luciferum, genui te.
+    </p>
+  </div>
 
 <br>
 
