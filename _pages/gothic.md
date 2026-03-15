@@ -118,6 +118,19 @@ permalink: /gothic/
 </div>
 
 <br>
+<a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b></a>
+<div style="max-width: 700px; margin: 0; padding: 0;">
+  <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_full_fol145r.jpg">
+    <img src="/palaeography/images/Luttrell_Psalter_thumbnail_fol145r_thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
+  </a>
+  <script>
+    document.getElementById('thumb-link-1').addEventListener('click', function(e) {
+      e.preventDefault();
+      window.open(this.href, '_blank');
+    });
+  </script>
+
+<br>
 
 <a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
