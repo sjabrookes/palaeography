@@ -114,7 +114,29 @@ permalink: /gothic_intro/
 
 <br>
 
-<a id="figure-G6"><b>Figure G6: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G5"><b>Figure G6: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 18v [detail])</b></a>
+<div style="max-width: 700px; margin: 0; padding: 0;">
+  <img src="/palaeography/images/Luttrell_Psalter_fol18v_detail_4.jpg" width="700" style="padding: 10px 0px; display: block;">
+
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
+    <p style="margin-bottom: 0;">
+      <b>E</b>t percussit ínímícos suos ín pos-<br>
+      teriora: opprobrium sempiternu<i>m</i>
+    </p>
+  </div>
+
+  <button onclick="
+    var d = this.previousElementSibling;
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
+    Show transcription
+  </button>
+</div>
+
+<br>
+
+<a id="figure-G7"><b>Figure G7: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -137,7 +159,7 @@ permalink: /gothic_intro/
 
 <br>
 
-<a id="figure-G7"><b>Figure G7: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G8"><b>Figure G8: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol202v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -160,7 +182,7 @@ permalink: /gothic_intro/
 </div>
 
 <br>
-<a id="figure-G8"><b>Figure G8: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b></a>
+<a id="figure-G9"><b>Figure G9: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_full_fol145r.jpg">
     <img src="/palaeography/images/Luttrell_Psalter_thumbnail_fol145r.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -174,7 +196,7 @@ permalink: /gothic_intro/
   
 <br>
 
-<a id="figure-G10"><b>Figure G10: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+<a id="figure-G11"><b>Figure G11: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
     <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
