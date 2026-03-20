@@ -8,8 +8,8 @@ This is a test page
 
 # The Lindisfarne Gospels
 
-<button onclick="document.getElementById('iiif-frame').src=document.getElementById('iiif-frame').src">
-  Return to folio 29r
+<button onclick="var f=document.getElementById('iiif-frame'); f.src=''; f.src='https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/man_10000006.0x000001&cv=65';" class="bl-button">
+  Return to folio 65
 </button>
 
 <iframe
