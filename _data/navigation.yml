@@ -23,3 +23,13 @@ scripts:
         url: /gothic_intro/
       - title: "Grades: Figures G11-G20"
         url: /gothic_grades/
+
+      - title: "Gothic"
+    children:
+      - title: "Script and Decoration
+        url: /decoration/
+      - title: "Decorative script: Figures D1-D10"
+        url: /decorative1/
+        
+
+        
