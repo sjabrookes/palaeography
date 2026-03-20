@@ -19,6 +19,8 @@ scripts:
         url: /carolineminuscule/
   - title: "Gothic"
     children:
+      - title: "Early Gothic"
+        url: /early_gothic/
       - title: "Intro: Figures G1-G10"
         url: /gothic_intro/
       - title: "Grades: Figures G11-G20"
@@ -27,3 +29,9 @@ scripts:
     children:
       - title: "Decorative script: Figures D1-D10"
         url: /decorative1/
+      - title: "Line fillers: Figures D10-D20"
+        url: /decorative2/
+      - title: "Script as Shapes: Figures D21-D25"
+        url: /decorative3/
+      - title: "Micrography: Figures D26-D30"
+        url: /decorative3/
