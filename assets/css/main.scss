@@ -26,3 +26,20 @@ footer.page__footer {
 .greedy-nav .hidden-links a {
   padding-left: 2em;
 }
+
+css
+.bl-button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: #0092ca;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  margin-bottom: 0.75rem;
+}
+.bl-button:hover {
+  background: #006f99;
+}
