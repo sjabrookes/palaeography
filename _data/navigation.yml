@@ -11,12 +11,18 @@ scripts:
         url: /national/
   - title: "Insular Scripts"
     children:
-      - title: "Examples"
+      - title: "Insular minuscule"
         url: /insular/
+      - title: "English Square minuscule"
+        url: /esm/
+      - title: "English Vernacular minuscule"
+        url: /evm/
   - title: "Caroline Minuscule"
     children:
       - title: "Examples"
         url: /carolineminuscule/
+      - title: "English Caroline minuscule"
+        url: /englishcarolineminuscule/
   - title: "Gothic"
     children:
       - title: "Early Gothic"
