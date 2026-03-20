@@ -216,8 +216,7 @@ permalink: /gothic_intro/
   <img src="/palaeography/images/Luttrell_Psalter_fol202v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
-    <p style="margin-bottom: 0;">
-      anímam meam.<br>
+    <p style="margin-bottom: 0;">anímam meam.<br>
       <b>G</b>loria patri<br>
       D<i>omi</i>n<i>u</i>s Galfridus louterell me fieri<br>
       fecit
