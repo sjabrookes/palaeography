@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Line fillers"
-permalink: /linefillers/
+title: "Line fillers: Figures D10-D20"
+permalink: /decorative2/
 ---
 
 <div style="margin: 1.5rem 2rem 0 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
