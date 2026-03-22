@@ -16,3 +16,13 @@ permalink: /decorative2/
     style="border:0; display:block; width:100%;">
   </iframe>
 </div>
+
+<div style="margin: 1.5rem 2rem 0 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <iframe
+    src="https://iiif.server.org/iiif/IMAGE_ID/125,15,120,140/full/0/default.jpg"
+    width="100%"
+    height="600"
+    style="border: 0; display: block;"
+    loading="lazy">
+  </iframe>
+</div>
