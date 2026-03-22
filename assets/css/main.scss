@@ -12,7 +12,7 @@ search: false
   padding-bottom: 0.25em;
 }
 
-.page__footer-copyright {
+.page__footeropyright {
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 0.25em;
@@ -48,10 +48,10 @@ footer.page__footer {
   background: #006f99;
 }
 
-/* Figure wrapper: space between figures */
+/* Figure wrapper: space between figures (controls gap after button) */
 .figure-block {
   max-width: 700px;
-  margin: 0 0 1.5rem 0;   /* space below each figure block */
+  margin: 0 0 3rem 0;   /* increase this for more space after Show transcription */
   padding: 0;
 }
 
@@ -69,6 +69,6 @@ a[id^="figure"] {
 
 /* Space around the button itself */
 .figure-block button {
-  margin-top: 0.75rem;      /* small space above button */
-  margin-bottom: 0;         /* no extra space below button */
+  margin-top: 0.75rem;      /* space above button */
+  margin-bottom: 0;         /* keep zero so only .figure-block sets the gap after */
 }
