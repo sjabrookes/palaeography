@@ -43,6 +43,7 @@ footer.page__footer {
   border: none;
   margin-bottom: 0.75rem;
 }
+
 .bl-button:hover {
   background: #006f99;
 }
@@ -50,24 +51,24 @@ footer.page__footer {
 /* Figure wrapper: space between figures */
 .figure-block {
   max-width: 700px;
-  margin: 0 0 3rem 0;   /* space below each figure block */
+  margin: 0 0 1.5rem 0;   /* space below each figure block */
   padding: 0;
 }
 
 /* Gap between "Figure" line and the image */
 a[id^="figure"] {
   display: block;
-  margin-bottom: 0.75rem;  /* adjust for more/less space */
+  margin-bottom: 0.75rem;   /* space after "Figure ..." heading */
 }
 
 /* Gap between image and the "Show transcription" button */
 .figure-block img {
   display: block;
-  margin-bottom: 0.15rem;  /* space under the image */
+  margin-bottom: 0.35rem;   /* space under the image */
 }
 
-/* Optional: fine‑tune space around the button */
+/* Space around the button itself */
 .figure-block button {
-  margin-top: 0.25rem;
-  margin-bottom: 0;        /* increase if you want more below */
+  margin-top: 0.25rem;      /* small space above button */
+  margin-bottom: 0;         /* no extra space below button */
 }
