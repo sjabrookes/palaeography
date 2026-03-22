@@ -26,3 +26,8 @@ permalink: /decorative2/
     loading="lazy">
   </iframe>
 </div>
+
+<img
+  src="https://iiif.bodleian.ox.ac.uk/iiif/image/bc20b055-4d03-4470-9937-f810bb67abcb/3072,6144,1024,1024/full/0/default.jpg"
+  alt="Zoomed region from Bodleian folio"
+  style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
