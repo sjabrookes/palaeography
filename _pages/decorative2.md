@@ -18,6 +18,6 @@ permalink: /decorative2/
 </div>
 
 <img
-  src="{{ '/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol32r.jpg' | relative_url }}"
+  src="{{ 'images/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol32r.jpg' | relative_url }}"
   alt="Bodleian Library, MS Laud Misc. 271, fol. 32r (line fillers)"
   style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
