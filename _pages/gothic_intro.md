@@ -10,6 +10,11 @@ permalink: /gothic_intro/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="500" style="padding: 10px 0px; display: block;">
 
+<img
+  src="{{ '/images/Luttrell_Psalter_minims_fol296v.jpg' | relative_url }}"
+  alt="British Library, Add. MS. 42130, fol. 21v"
+  style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
+
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       ínímícum meum
