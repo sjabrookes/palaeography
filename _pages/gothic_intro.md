@@ -8,8 +8,7 @@ permalink: /gothic_intro/
 
 <a id="figure-G1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 21v [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="500" style="padding: 10px 0px; display: block;">
-
+  
 <img
   src="{{ '/images/Luttrell_Psalter_minims_fol296v.jpg' | relative_url }}"
   alt="British Library, Add. MS. 42130, fol. 21v"
@@ -34,7 +33,11 @@ permalink: /gothic_intro/
 
 <a id="figure-G2"><b>Figure G2: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_domini_fol296v.jpg" width="275" style="padding: 10px 0px; display: block;">
+
+<img
+  src="{{ '/images/QMP_Royal_MS_2_B_vii_domini_fol296v.jpg' | relative_url }}"
+  alt="British Library, Add. MS. 42130, fol. 296v"
+  style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
@@ -55,8 +58,13 @@ permalink: /gothic_intro/
 
 <a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-<img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_2b.jpg" width="700" style="padding: 10px 0px; display: block;">
-  
+
+
+<img
+  src="{{ '/images/Luttrell_Psalter_fol145r_detail_2b.jp' | relative_url }}"
+  alt="British Library, Add. MS. 42130, fol. 145r"
+  style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
+
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       <b>T</b>ribulacionem 7 dolorem<br>
