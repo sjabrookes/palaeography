@@ -54,8 +54,8 @@ footer.page__footer {
   padding: 0;
 }
 
-/* Gap between "Figure G…" line and the image */
-a[id^="figure-G"] {
+/* Gap between "Figure" line and the image */
+a[id^="figure"] {
   display: block;
   margin-bottom: 0.75rem;  /* adjust for more/less space */
 }
