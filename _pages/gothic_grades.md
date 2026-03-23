@@ -13,12 +13,6 @@ permalink: /gothic_grades/
     src="/palaeography/images/prescissa.jpg"
     alt="British Library, Add. MS. 42130, fol. 21v"
     style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
-</div>
-
-<a id="figure-11"><b>Figure G11: Gothic Textura Prescissa</b></a>
-<p>(Luttrell Psalter, fol. 109r)</p>
-<div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;"><b>p</b>artibor siccímam</p>
@@ -35,13 +29,14 @@ permalink: /gothic_grades/
   <p>The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>;
   the long <b>s</b>; and the hairline stroke ('tittle') placed over the second <b>i</b> in 'siccimam' in order to distinguish it from the <b>m</b> which follows.</p>
 
-  <img src="/palaeography/images/prescissa_bilinear.jpg" width="700" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/prescissa_bilinear.jpg" style="display:block; max-width:700px; 
+    height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
 </div>
 
 <br>
 
 <a id="figure-G12"><b>Figure G12: The Queen Mary Psalter examples</b></a>
-<div style="max-width: 700px; margin: 0; padding: 0;">
+<div class="figure-block">
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="background-color: powderblue; padding: 10px; display: inline-block;">
@@ -55,7 +50,8 @@ permalink: /gothic_grades/
 
 <a id="figure-G13"><b>Figure G13: Quadrata</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/quadrata.jpg" width="700" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/quadrata.jpg" 
+    style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
   <p>A diamond-shaped serif has been added to the top and bottom of each minim</p>
 </div>
 
