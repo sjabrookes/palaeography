@@ -7,6 +7,15 @@ permalink: /gothic_grades/
 {::nomarkdown}
 
 <a id="figure-11"><b>Figure G11: Gothic Textura Prescissa</b></a>
+<p>(The Luttrell Psalter, fol. 109r)</p>
+<div class="figure-block">
+  <img
+    src="{{ '"/palaeography/images/prescissa.jpg' | relative_url }}"
+    alt="British Library, Add. MS. 42130, fol. 21v"
+    style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
+</div>
+
+<a id="figure-11"><b>Figure G11: Gothic Textura Prescissa</b></a>
 <p>(Luttrell Psalter, fol. 109r)</p>
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
