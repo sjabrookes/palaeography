@@ -10,7 +10,7 @@ permalink: /gothic_grades/
 <p>(The Luttrell Psalter, fol. 109r)</p>
 <div class="figure-block">
   <img
-    src="{{ '"/palaeography/images/prescissa.jpg' | relative_url }}"
+    src="{{ '"images/prescissa.jpg' | relative_url }}"
     alt="British Library, Add. MS. 42130, fol. 21v"
     style="display:block; max-width:700px; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2);">
 </div>
