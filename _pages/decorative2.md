@@ -125,8 +125,7 @@ permalink: /decorative2/
 </div>
 
 
-<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-
+<div style="margin: 1.5rem 0 0 0.25rem; max-width: 400px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r.jpg' | relative_url }}"
     alt="London, British Library.... (line fillers)"
