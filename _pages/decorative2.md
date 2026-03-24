@@ -75,14 +75,12 @@ permalink: /decorative2/
 
 </div>
 
-
 <div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/Lindisfarne_Gospels_fol27r.jpg' | relative_url }}"
     alt="London, British Library.... (line fillers)"
-    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
-
+    style="display:block; max-width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
@@ -103,8 +101,3 @@ permalink: /decorative2/
     style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
 
 </div>
-
-
-
-
-
