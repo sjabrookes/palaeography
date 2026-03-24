@@ -30,7 +30,8 @@ permalink: /decorative2/
 
 <!-- British Library block -->
 
-# Cotton MS Julius E. vii
+## Cotton MS Julius E. vii
+{: style="margin-top: 2.5rem;"}
 
 <div style="margin: 1.5rem 2rem 0 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
