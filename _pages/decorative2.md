@@ -42,6 +42,12 @@ permalink: /decorative2/
   Return to folio 29r
 </button>
 
+<button
+  onclick="var f=document.getElementById('iiif-frame'); f.src=''; setTimeout(function(){ f.src='https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/vdc_100058085880.0x000001&cv=177'; }, 50);"
+  style="display:inline-block; padding:0.25rem 0.6rem; background:#0092ca; color:#fff; border:none; border-radius:4px; font-weight:600; font-size:0.8rem; cursor:pointer; margin-top:0.4rem; margin-bottom:0;">
+  Return to folio 29r
+</button>
+
 
 
 {::nomarkdown}
