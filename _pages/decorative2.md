@@ -102,3 +102,45 @@ permalink: /decorative2/
     style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
 
 </div>
+
+***
+
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+
+  <img
+    src="{{ 'images/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol98r.jpg' | relative_url }}"
+    alt="London, British Library.... (line fillers)"
+    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
+
+</div>
+
+
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+
+  <img
+    src="{{ 'images/decorative/linefillers/fig7_sjc_ms_204_134r.jpg' | relative_url }}"
+    alt="London, British Library.... (line fillers)"
+    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
+
+</div>
+
+
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+
+  <img
+    src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r.jpg' | relative_url }}"
+    alt="London, British Library.... (line fillers)"
+    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
+
+</div>
+
+
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+
+  <img
+    src="{{ 'images/decorative/linefillers/Royal_MS_2_Dxi.jpg' | relative_url }}"
+    alt="London, British Library.... (line fillers)"
+    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 0rem;">
+
+</div>
+
