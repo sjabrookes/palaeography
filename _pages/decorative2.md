@@ -60,7 +60,7 @@ permalink: /decorative2/
 <div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
-    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol85v' | relative_url }}"
+    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol85v.jpg' | relative_url }}"
     alt="London, British Library.... (line fillers)"
     style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
 
@@ -69,26 +69,7 @@ permalink: /decorative2/
 <div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
-    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol136r' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
-    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
-
-</div>
-
-
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-
-  <img
-    src="{{ 'images/decorative/linefillers/Lindisfarne_Gospel_fol27r' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
-    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
-
-</div>
-
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-
-  <img
-    src="{{ 'images/decorative/linefillers/Rutland_Psalter_fol17r' | relative_url }}"
+    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol136r.jpg' | relative_url }}"
     alt="London, British Library.... (line fillers)"
     style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
 
@@ -98,7 +79,26 @@ permalink: /decorative2/
 <div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
-    src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r_hyphen' | relative_url }}"
+    src="{{ 'images/decorative/linefillers/Lindisfarne_Gospel_fol27r.jpg' | relative_url }}"
+    alt="London, British Library.... (line fillers)"
+    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
+
+</div>
+
+<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+
+  <img
+    src="{{ 'images/decorative/linefillers/Rutland_Psalter_fol17r.jpg' | relative_url }}"
+    alt="London, British Library.... (line fillers)"
+    style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
+
+</div>
+
+
+<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+
+  <img
+    src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r_hyphen.jpg' | relative_url }}"
     alt="London, British Library.... (line fillers)"
     style="display:block; max-width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.2); margin-bottom: 1rem;">
 
