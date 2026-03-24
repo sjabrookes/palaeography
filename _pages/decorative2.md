@@ -6,7 +6,7 @@ permalink: /decorative2/
 
 <!-- Bodleian block -->
 
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol32r.jpg' | relative_url }}"
@@ -57,7 +57,7 @@ permalink: /decorative2/
 
 </div>
 
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol85v.jpg' | relative_url }}"
@@ -66,7 +66,7 @@ permalink: /decorative2/
 
 </div>
 
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol136r.jpg' | relative_url }}"
@@ -76,7 +76,7 @@ permalink: /decorative2/
 </div>
 
 
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/Lindisfarne_Gospels_fol27r.jpg' | relative_url }}"
@@ -85,7 +85,7 @@ permalink: /decorative2/
 
 </div>
 
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/Rutland_Psalter_fol17r.jpg' | relative_url }}"
@@ -95,7 +95,7 @@ permalink: /decorative2/
 </div>
 
 
-<div style="margin: 1.5rem 2rem 0 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="margin: 1.5rem 2rem 0rem 0.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
 
   <img
     src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r_hyphen.jpg' | relative_url }}"
