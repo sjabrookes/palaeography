@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Line fillers: Figures D10-D20"
-permalink: /decorative2/
+permalink: /decorative2b_IIIF/
 ---
 
 <!-- Bodleian block -->
