@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "National Scripts"
-permalink: /national/
+permalink: /decorative2b_IIIF/
 ---
 
 On its way
