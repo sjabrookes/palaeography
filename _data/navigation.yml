@@ -8,7 +8,7 @@ scripts:
   - title: "National Scripts"
     children:
       - title: "Examples"
-        url: /national/
+        url: /decorative2b_IIIF/
   - title: "Insular Scripts"
     children:
       - title: "Insular minuscule"
