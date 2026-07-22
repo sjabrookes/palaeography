@@ -6,7 +6,7 @@ permalink: /decorative3/
 
 <!-- Bodleian block -->
 
-<a id="figure-G1"><b>Figure D26: Oxford, Bodleian Library, MS. Canonici Or. 137, fol. 1v (detail)</b></a>
+<a id="figure-G1"><b>Figure D26: Oxford, Bodleian Library, MS. Canonici Or. 137, fol. 1v (detail)</b>. Hebrew Bible, with Targum Onḳelos after each verse, Ashkenaz, <i>c</i>. 1300</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -24,7 +24,7 @@ permalink: /decorative3/
 
 <br>
 
-<a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r (detail)</b></a>
+<a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r (detail)</b>. Hebrew Bible, Yemen, 1478</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
