@@ -11,27 +11,22 @@ permalink: /decorative3/
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/decorative/micrography/MS_Canonici_Or_137_Detail1.jpg' | relative_url }}"
-    alt="Image of Oxford, Bodleian Library, MS. Bodl. 756 showing hyphens and abbrievated text"
+    alt="Image of Oxford, Bodleian Library, Oxford, Bodleian Library, MS. Canonici Or. 137, fol. 1v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol32r.jpg' | relative_url }}"
-    alt="Oxford, Bodleian Library, MS Laud Misc. 271, fol. 32r (line fillers)"
+    src="{{ 'images/decorative/micrography/MS_Canonici_Or_137_Detail2.jpg' | relative_url }}"
+    alt="Image of Oxford, Bodleian Library, Oxford, Bodleian Library, MS. Canonici Or. 137, fol. 1v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
+<a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r (detail)</b></a>
+  
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol85v.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol136r.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/decorative/micrography/MS_Oppenheim_Add_4°_97a_Detail1.jpg' | relative_url }}"
+    alt="Image of Oxford, Bodleian Library,  MS. Oppenheim Add. 4° 97a, fol. 2r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
