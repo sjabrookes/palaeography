@@ -13,7 +13,8 @@ permalink: /national/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div class="iiif-embed" style="position: relative; margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
   <iframe
     src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2F8b6b951d-0d06-44de-8e41-d3b685ee0f2f%2Fsurfaces%2Fbc20b055-4d03-4470-9937-f810bb67abcb%2F"
     width="1000"
@@ -31,14 +32,17 @@ permalink: /national/
 {: style="margin-top: 2.5rem;"}
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <iframe
-    id="iiif-frame"
-    src="https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/vdc_100058085880.0x000001&cv=177"
-    width="100%"
-    height="800"
-    style="border: 0; display: block;"
-    allowfullscreen>
-  </iframe>
+  <div class="iiif-embed" style="position: relative;">
+    <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
+    <iframe
+      id="iiif-frame"
+      src="https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/vdc_100058085880.0x000001&cv=177"
+      width="100%"
+      height="800"
+      style="border: 0; display: block;"
+      allowfullscreen>
+    </iframe>
+  </div>
 
   <div style="text-align:center; margin: 0.4rem 0 0 0;">
     <button
