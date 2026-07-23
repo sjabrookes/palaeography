@@ -6,3 +6,18 @@
     </div>
   </footer>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.iiif-embed').forEach(function (wrap) {
+    var overlay = wrap.querySelector('.iiif-embed-overlay');
+    if (!overlay) return;
+    overlay.addEventListener('click', function () {
+      overlay.style.display = 'none';
+    });
+    wrap.addEventListener('mouseleave', function () {
+      overlay.style.display = 'block';
+    });
+  });
+});
+</script>
