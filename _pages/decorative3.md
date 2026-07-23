@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Microgrqphy: Figures D26-D36"
+title: "Micrography: Figures D26-D36"
 permalink: /decorative3/
 ---
 
@@ -24,8 +24,9 @@ permalink: /decorative3/
 
 <br>
 
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
- <iframe
+<div class="iiif-embed" style="position: relative; margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
+  <iframe
     src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https://digital.bodleian.ox.ac.uk/objects/c517143d-45bb-4943-9459-c192348daa24/surfaces/5992ba8b-c761-44dc-a036-590409a910b3/"
     width="1000"
     height="550"
@@ -33,7 +34,7 @@ permalink: /decorative3/
     allow="fullscreen"
     loading="lazy"
     style="border:0; display:block; width:100%;">
-</iframe>
+  </iframe>
 </div>
 
 <br>
