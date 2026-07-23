@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Line fillers: Figures D26-D36"
+title: "Microgrqphy: Figures D26-D36"
 permalink: /decorative3/
 ---
 
