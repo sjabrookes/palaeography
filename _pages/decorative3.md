@@ -25,16 +25,15 @@ permalink: /decorative3/
 <br>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-
-  <iframe
-    src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https://digital.bodleian.ox.ac.uk/objects/c517143d-45bb-4943-9459-c192348daa24/surfaces/5992ba8b-c761-44dc-a036-590409a910b3"
+ <iframe
+    src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https://digital.bodleian.ox.ac.uk/objects/c517143d-45bb-4943-9459-c192348daa24/surfaces/5992ba8b-c761-44dc-a036-590409a910b3/"
     width="1000"
     height="550"
     title="Viewer displaying digitised images of MS. Canonici Or. 137: fol. 1v"
     allow="fullscreen"
     loading="lazy"
     style="border:0; display:block; width:100%;">
-  </iframe>
+</iframe>
 </div>
 
 <br>
