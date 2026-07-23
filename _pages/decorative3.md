@@ -39,6 +39,23 @@ permalink: /decorative3/
 
 <br>
 
+<br>
+
+<div class="iiif-embed" style="position: relative; margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
+  <iframe
+    src="https://digital.bodleian.ox.ac.uk/objects/8c264b23-f6cc-4f18-98cf-9d75f7175b54/surfaces/a21b1af9-126d-4093-995f-f87600ad4d19/"
+    width="1000"
+    height="550"
+    title="Viewer displaying digitised images of MS. Kennicott 1: fol. 318r"
+    allow="fullscreen"
+    loading="lazy"
+    style="border:0; display:block; width:100%;">
+  </iframe>
+</div>
+
+<br>
+
 <a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r</b>. Hebrew Bible, Yemen, 1478</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
