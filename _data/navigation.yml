@@ -39,5 +39,5 @@ scripts:
         url: /decorative2/
       - title: "Script as Shapes: Figures D21-D25"
         url: /decorative3/
-      - title: "Micrography: Figures D26-D30"
-        url: /decorative3/
+      - title: "Micrography: Figures D26-D33"
+        url: /micrography/
