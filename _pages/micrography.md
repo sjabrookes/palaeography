@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Micrography: Figures D26-D36"
-permalink: /decorative3/
+permalink: /micrography/
 ---
 
 <!-- Bodleian block -->
