@@ -39,23 +39,6 @@ permalink: /micrography/
 
 <br>
 
-<br>
-
-<div class="iiif-embed" style="position: relative; margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
-  <iframe
-    src="https://digital.bodleian.ox.ac.uk/objects/8c264b23-f6cc-4f18-98cf-9d75f7175b54/surfaces/a21b1af9-126d-4093-995f-f87600ad4d19/"
-    width="1000"
-    height="550"
-    title="Viewer displaying digitised images of MS. Kennicott 1: fol. 318r"
-    allow="fullscreen"
-    loading="lazy"
-    style="border:0; display:block; width:100%;">
-  </iframe>
-</div>
-
-<br>
-
 <a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r</b>. Hebrew Bible, Yemen, 1478</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
@@ -89,7 +72,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D30: British Library, Or. 2348, fol. 39г</b>. ???</a>
+<a id="figure-G1"><b>Figure D30: British Library, Or. MS. 2348, fol. 39г</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -122,14 +105,14 @@ permalink: /micrography/
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/micrography/MS_Oppenheim_Add_4°_97a_Detail1.jpg' | relative_url }}"
+    src="{{ 'images/decorative/micrography/Add_MS_21160_fol.201v_Detail2.jpg' | relative_url }}"
     alt="Image of British Library, Add. MS. 21160, fol. 201v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <br>
 
-<a id="figure-G1"><b>Figure D32: British Library, Add. 15282 fol. 28r</b>. ???</a>
+<a id="figure-G1"><b>Figure D32: British Library, Add. MS. 15282 fol. 28r</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -146,3 +129,45 @@ permalink: /micrography/
     alt="Image of British Library, Add. 15282 fol. 28r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
+
+<br>
+
+<a id="figure-G1"><b>Figure D32: British Library, Add. MS. 21160, fol. 292r</b>. ???</a>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Add_21160_fol_292_detail.jpg' | relative_url }}"
+    alt="Image of British Library, Add. 21160 fol. 292r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Add_21160_fol_292_detail.jpg' | relative_url }}"
+    alt="Image of British Library, Add. 21160 fol. 292r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-G1"><b>Figure D32: British Library, Or. MS. 2091, fol. 254r</b>. ???</a>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Or_2091_fol_254r.jpg' | relative_url }}"
+    alt="Image of British Library, Or. 2091, fol. 254r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<a id="figure-G1"><b>Figure D32: British Library, Or. MS. 2091, fol. 268r</b>. ???</a>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Or_2091_fol_268r' | relative_url }}"
+    alt="Image of British Library, Or. 2091, fol. 268r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+
