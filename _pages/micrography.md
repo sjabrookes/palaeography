@@ -119,6 +119,26 @@ permalink: /micrography/
 
 <br>
 
+<a id="figure-G1"><b>Figure D30: British Library, Or. MS. 2348, fol. 39г</b>. ???</a>
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Or_2348_39г_Detail1.jpg' | relative_url }}"
+    alt="Image of British Library, Or. 2348, fol. 39г"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Or_2348_39г_Detail2.jpg' | relative_url }}" 
+    alt="Image of British Library, Or. 2348, fol. 39г"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
 <a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r</b>. Hebrew Bible, Yemen, 1478</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
@@ -149,25 +169,3 @@ permalink: /micrography/
     alt="Image of Columbia, MS. General 364"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
-
-<br>
-
-<a id="figure-G1"><b>Figure D30: British Library, Or. MS. 2348, fol. 39г</b>. ???</a>
-  
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/micrography/Or_2348_39г_Detail1.jpg' | relative_url }}"
-    alt="Image of British Library, Or. 2348, fol. 39г"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-<br>
-
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/micrography/Or_2348_39г_Detail2.jpg' | relative_url }}" 
-    alt="Image of British Library, Or. 2348, fol. 39г"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-
