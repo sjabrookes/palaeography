@@ -50,6 +50,15 @@ permalink: /micrography/
 
 <br>
 
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/micrography/Add_15282_fol_28r_Detail1.jpg' | relative_url }}"
+    alt="Image of British Library, Add. 15282 fol. 28r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
 <a id="figure-G1"><b>Figure D32: British Library, Add. MS. 21160, fol. 292r</b>. ???</a>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
@@ -65,15 +74,6 @@ permalink: /micrography/
   <img
     src="{{ 'images/decorative/micrography/Add_21160_fol_292_Detail2.jpg' | relative_url }}"
     alt="Image of British Library, Add. 21160 fol. 292r"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-<br>
-
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/micrography/Add_15282_fol_28r_Detail1.jpg' | relative_url }}"
-    alt="Image of British Library, Add. 15282 fol. 28r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
