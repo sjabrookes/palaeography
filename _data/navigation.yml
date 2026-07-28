@@ -31,9 +31,9 @@ scripts:
     children:
       - title: "Decorative script: Figures D1-D10"
         url: /decorative1/
-      - title: "Line fillers: Figures D10-D20"
+      - title: "Line fillers: Figures ??"
         url: /decorative2/
-      - title: "Carmina Figurata: Figures D21-D25"
+      - title: "Carmina Figurata: Figures D10-D21"
         url: /carmina/
       - title: "Micrography: Figures D26-D33"
         url: /micrography/
