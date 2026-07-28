@@ -37,7 +37,40 @@ permalink: /carmina/
 
 <br>
 
-<a id="figure-D13"><b>Figure D13: Oxford, Bodleian Library, MS. Arch. Selden A. 51, fol. 71r (detail)</b>. ???</a>
+<a id="figure-D13"><b>Figure D13: Oxford, Bodleian Library, MS. Oppenheim 248, fol. 382v (detail)</b>. ???</a>
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/carmina/Bod_MS_Oppenheim_248_fol_382v.jpg' | relative_url }}"
+    alt="Image of Oxford, Bodleian Library, MS. Oppenheim 248, fol. 382v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-D14"><b>Figure D14: London, British Library, Add. MS. 26878, fol. 25r (detail)</b>. ???</a>
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/carmina/BL_MS_Add_26878_fol_25r.jpg' | relative_url }}"
+    alt="Image of London, British Library, Add. MS. 26878, fol. 25r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-D15"><b>Figure D15: London, British Library, Add. MS. 1861, fol. 219r (detail)</b>. ???</a>
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/decorative/carmina/BL_Harley_MS_1861_fol_219r.jpg' | relative_url }}"
+    alt="Image of London, British Library, Add. MS. 1861, fol. 219r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-D16"><b>Figure D16: Oxford, Bodleian Library, MS. Arch. Selden A. 51, fol. 71r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -57,18 +90,7 @@ permalink: /carmina/
 
 <br>
 
-<a id="figure-D14"><b>Figure D14: Oxford, Bodleian Library, MS. Oppenheim 248, fol. 382v (detail)</b>. ???</a>
-  
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/carmina/Bod_MS_Oppenheim_248_fol_382v.jpg' | relative_url }}"
-    alt="Image of Oxford, Bodleian Library, MS. Oppenheim 248, fol. 382v"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-<br>
-
-<a id="figure-D15"><b>Figure D15: London, British Library, Add. MS. 14762, fol. 12r (detail)</b>. ???</a>
+<a id="figure-D17"><b>Figure D17: London, British Library, Add. MS. 14762, fol. 12r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -79,18 +101,7 @@ permalink: /carmina/
 
 <br>
 
-<a id="figure-D16"><b>Figure D16: London, British Library, Add. MS. 26878, fol. 25r (detail)</b>. ???</a>
-  
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/carmina/BL_MS_Add_26878_fol_25r.jpg' | relative_url }}"
-    alt="Image of London, British Library, Add. MS. 26878, fol. 25r"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-<br>
-
-<a id="figure-D17"><b>Figure D17: London, British Library, Add. MS. 14762, fol. 25r (detail)</b>. ???</a>
+<a id="figure-D18"><b>Figure D18: London, British Library, Add. MS. 14762, fol. 25r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -105,17 +116,6 @@ permalink: /carmina/
   <img
     src="{{ 'images/decorative/carmina/BL_Add_MS_14762_fol_25r_Detail3.jpg' | relative_url }}"
     alt="Image of London, British Library, Add. MS. 26878, fol. 25r"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
-<br>
-
-<a id="figure-D18"><b>Figure D18: London, British Library, Add. MS. 1861, fol. 219r (detail)</b>. ???</a>
-  
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/carmina/BL_Harley_MS_1861_fol_219r.jpg' | relative_url }}"
-    alt="Image of London, British Library, Add. MS. 1861, fol. 219r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
