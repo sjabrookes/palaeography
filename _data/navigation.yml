@@ -37,3 +37,5 @@ scripts:
         url: /carmina/
       - title: "Micrography: Figures D26-D33"
         url: /micrography/
+      - title: "Digital Palaeography"
+        url: /dpal/
