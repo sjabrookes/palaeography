@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Carmina Figurata: Figures D10-D20"
+title: "Carmina Figurata: Figures D10-D21"
 permalink: /carmina/
 ---
 
@@ -149,8 +149,6 @@ permalink: /carmina/
 </div>
 
 <br>
-
-<a id="figure-D21"><b>Figure D21: London, British Library, Harley MS. 647, fol. 12r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -161,7 +159,7 @@ permalink: /carmina/
 
 <br>
 
-<a id="figure-D22"><b>Figure D22: London, British Library, Tiberius MS. C. 1, fol. 22v (detail)</b>. ???</a>
+<a id="figure-D21"><b>Figure D21: London, British Library, Tiberius MS. C. 1, fol. 22v (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
