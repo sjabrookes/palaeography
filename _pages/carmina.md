@@ -13,9 +13,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D11"><b>Figure D11: London, British Library, MS. Or. 2628 ('Lisbon Bible', vol. 2), fol. 28r (detail)</b>. Bible, with masorah magna and parva. Portugal, Lisbon, 1483</a>
+<a id="figure-D11"><b>Figure D11: London, British Library, MS. Or. 2628 ('Lisbon Bible', vol. 2), fol. 28r (detail)</b>. Bible, with masorah magna and parva. Portugal, Lisbon, 1483</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -24,9 +24,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D12"><b>Figure D12: London, British Library, MS. Add. 26878, fol. 199r (detail)</b>. ???</a>
+<a id="figure-D12"><b>Figure D12: London, British Library, MS. Add. 26878, fol. 199r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -35,9 +35,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D13"><b>Figure D13: Oxford, Bodleian Library, MS. Arch. Selden A. 51, fol. 71r (detail)</b>. ???</a>
+<a id="figure-D13"><b>Figure D13: Oxford, Bodleian Library, MS. Arch. Selden A. 51, fol. 71r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -46,7 +46,7 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -55,9 +55,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D14"><b>Figure D14: Oxford, Bodleian Library, MS. Oppenheim 248, fol. 382v (detail)</b>. ???</a>
+<a id="figure-D14"><b>Figure D14: Oxford, Bodleian Library, MS. Oppenheim 248, fol. 382v (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -66,9 +66,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D15"><b>Figure D15: London, British Library, Add. MS. 14762, fol. 12r (detail)</b>. ???</a>
+<a id="figure-D15"><b>Figure D15: London, British Library, Add. MS. 14762, fol. 12r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -77,9 +77,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D16"><b>Figure D16: London, British Library, Add. MS. 26878, fol. 25r (detail)</b>. ???</a>
+<a id="figure-D16"><b>Figure D16: London, British Library, Add. MS. 26878, fol. 25r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -88,9 +88,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D17"><b>Figure D17: London, British Library, Add. MS. 14762, fol. 25r (detail)</b>. ???</a>
+<a id="figure-D17"><b>Figure D17: London, British Library, Add. MS. 14762, fol. 25r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -108,9 +108,9 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
-  <a id="figure-D18"><b>Figure D18: London, British Library, Add. MS. 1861, fol. 219r (detail)</b>. ???</a>
+<a id="figure-D18"><b>Figure D18: London, British Library, Add. MS. 1861, fol. 219r (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -119,7 +119,7 @@ permalink: /carmina/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-  <br>
+<br>
 
 <a id="figure-D19"><b>Figure D19: Leiden, MS. Voss. lat. Q 79, fols 40v-41r.jpg (detail)</b>. ???</a>
   
