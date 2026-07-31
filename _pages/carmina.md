@@ -4,15 +4,6 @@ title: "Carmina Figurata: Figures D10-D21"
 permalink: /carmina/
 ---
 
-<a id="figure-D10"><b>Figure D10: Oxford, Bodleian Library, MS. Auct. E. inf. 7 (detail)</b>. TO BE ADDED</a>
-  
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/carmina/.jpg' | relative_url }}"
-    alt="Image of Oxford, Bodleian Library, MS. Auct. E. inf. 7"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
-
 <a id="figure-D10"><b>Figure D10: Paris, Bibliothèque nationale de France, Latin 338, fol. 27v (detail)</b>. ???</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
