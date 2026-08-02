@@ -1,7 +1,7 @@
 main:
 
 scripts:
-  - title: "Roman"
+  - title: "Roman Scripts"
     children:
       - title: "Examples"
         url: /roman/
@@ -23,19 +23,19 @@ scripts:
     children:
       - title: "Early Gothic"
         url: /early_gothic/
-      - title: "Intro: Figures G1-G10"
+      - title: "Intro"
         url: /gothic_intro/
-      - title: "Grades: Figures G11-G20"
+      - title: "Grades"
         url: /gothic_grades/
   - title: "Script and Decoration"
     children:
-      - title: "Decorative script: Figures D1-D10"
+      - title: "Decorative script"
         url: /decorative1/
-      - title: "Line fillers: Figures ??"
+      - title: "Line fillers"
         url: /decorative2/
-      - title: "Carmina Figurata: Figures D10-D21"
+      - title: "Carmina Figurata"
         url: /carmina/
-      - title: "Micrography: Figures D26-D33"
+      - title: "Micrography"
         url: /micrography/
       - title: "Digital Palaeography"
         url: /dpal/
