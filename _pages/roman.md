@@ -8,14 +8,14 @@ permalink: /roman/
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/trajan-bilinear.jpg' | relative_url }}"
+    src="{{ 'images/roman/trajan_bilinear.jpg' | relative_url }}"
     alt="Image of text on pedestal of Trajan's column"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <br>
 
-<a id="figure-1"><b>1) Arch of Titus</b>. ???</a>
+<a id="figure-1"><b>1) Arch of Titus</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -26,7 +26,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1) Arch of Titus (detail)</b>. ???</a>
+<a id="figure-1"><b>1) Arch of Titus (detail)</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -37,7 +37,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1) Trajan's column</a>
+<a id="figure-1"><b>1) Trajan's column</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -48,7 +48,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1) Trajan's column</a>
+<a id="figure-1"><b>1) Trajan's column</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -59,11 +59,11 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1) Trajan's column</a>
+<a id="figure-1"><b>1)S Galle Stiftsbibliothek_Cod_Sang_1394_p_3</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/trajan-bilinear.jpg' | relative_url }}"
+    src="{{ 'images/roman/St_Gallen_Stiftsbibliothek_Cod_Sang_1394_p_31' | relative_url }}"
     alt="Image of text on pedestal of Trajan's column"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
