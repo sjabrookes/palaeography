@@ -6,7 +6,7 @@ permalink: /gothic/
 
 {::nomarkdown}
 
-<a id="figure-G1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 21v [detail])</b></a>
+<a id="figure-1"></a><b>1) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 21v [detail])</b>
 <div class="figure-block">
   <img
     src="{{ '/images/Luttrell_Psalter_minims_fol296v.jpg' | relative_url }}"
@@ -28,7 +28,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G2"><b>Figure G2: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v [detail])</b></a>
+<a id="figure-2"><b>2) The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v [detail])</b>
 <div class="figure-block">
   <img
     src="{{ '/images/QMP_Royal_MS_2_B_vii_domini_fol296v.jpg' | relative_url }}"
@@ -50,7 +50,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G3"><b>Figure G3: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-3"></a><b>3) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail]), <i>c</i>. 1320–1340</b>
 <div class="figure-block">
   <img
     src="{{ '/images/Luttrell_Psalter_fol145r_detail_2b.jpg' | relative_url }}"
@@ -72,7 +72,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-4"><b>Figure G4: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-4"></a><b>4) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b>
 <div class="figure-block">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -95,7 +95,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G5"><b>Figure G5: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b></a>
+<a id="figure-5"></a><b>6) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail])</b>
 <div class="figure-block">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -115,7 +115,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G6"><b>Figure G6: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 18v [detail])</b></a>
+<a id="figure-6"></a><b>6) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 18v [detail])</b>
 <div class="figure-block">
   <img src="/palaeography/images/Luttrell_Psalter_fol18v_detail_4.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -136,7 +136,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G7"><b>Figure G7: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-7"></a><b>7) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b>
 <div class="figure-block">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px; display: block;">
 
@@ -157,7 +157,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G8"><b>Figure G8: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+<a id="figure-8"></a><b>8) The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b>
 <div class="figure-block">
   <a id="thumb-link-2" href="/palaeography/images/QMP_fol296v-full.jpg">
     <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -189,7 +189,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G9"><b>Figure G9: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b></a>
+<a id="figure-9"></a><b>9) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r), <i>c</i>. 1320–1340</b>
 <div class="figure-block">
   <a id="thumb-link-1" href="/palaeography/images/Luttrell_Psalter_full_fol145r.jpg">
     <img src="/palaeography/images/Luttrell_Psalter_thumbnail_fol145r.jpg" width="700" style="padding: 10px 0px; display: block;">
@@ -202,7 +202,7 @@ permalink: /gothic/
   </script>
 </div>
 
-<a id="figure-G10"><b>Figure G10: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b></a>
+<a id="figure-10"></a><b>10) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 202v [detail]), <i>c</i>. 1320–1340</b>
 <div class="figure-block">
   <img src="/palaeography/images/Luttrell_Psalter_fol202v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
