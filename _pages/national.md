@@ -3,7 +3,7 @@ layout: single
 title: "National Scripts"
 permalink: /national/
 ---
-<a id="figure-1"><b>1) Example of the variation in the forms of the letters a, s, d, g, r</b></a>
+<a id="figure-1"></a><b>1) Example of the variation in the forms of the letters <b>a</b>, <b>s</b>, <b>d</b>, <b>g</b> and <b>r</b></b>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
