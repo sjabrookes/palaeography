@@ -14,113 +14,197 @@ permalink: /national/
 
 <br>
 
-<!-- Bodleian block -->
+<a id="figure-2"></a><b>2) Merovingian Chancery script: Paris, Archives Nationales, K 4, no. 3</b>. Diploma of Chilperic II 
+granting forest rights to the Abbey of St Denis. Dated: 28/2/717 
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol32r.jpg' | relative_url }}"
-    alt="Oxford, Bodleian Library, MS Laud Misc. 271, fol. 32r (line fillers)"
+    src="{{ 'images/national/Paris_Archives_nationales,_K_4_no_3.jpg' | relative_url }}"
+    alt="Image of a Diploma of Chilperic II granting forest rights to the Abbey of St Denis. Dated: 28/2/717"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-<div class="iiif-embed" style="position: relative; margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
-  <iframe
-    src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2F8b6b951d-0d06-44de-8e41-d3b685ee0f2f%2Fsurfaces%2Fbc20b055-4d03-4470-9937-f810bb67abcb%2F"
-    width="1000"
-    height="550"
-    title="Viewer displaying digitised images of Homiliae XL in evangelia: fol. 32r"
-    allow="fullscreen"
-    loading="lazy"
-    style="border:0; display:block; width:100%;">
-  </iframe>
-</div>
-
-<!-- British Library block -->
-
-## Cotton MS Julius E. vii
-{: style="margin-top: 2.5rem;"}
-
-<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <div class="iiif-embed" style="position: relative;">
-    <div class="iiif-embed-overlay" style="position: absolute; inset: 0; z-index: 2; cursor: pointer;"></div>
-    <iframe
-      id="iiif-frame"
-      src="https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/vdc_100058085880.0x000001&cv=177"
-      width="100%"
-      height="800"
-      style="border: 0; display: block;"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div style="text-align:center; margin: 0.4rem 0 0 0;">
-    <button
-      onclick="
-        var f = document.getElementById('iiif-frame');
-        f.src = '';
-        setTimeout(function () {
-          f.src = 'https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/vdc_100058085880.0x000001&cv=177';
-        }, 50);
-      "
-      style="display:inline-block; padding:0.25rem 0.6rem; background:#0092ca; color:#fff; border:none; border-radius:4px; font-weight:600; font-size:0.8rem; cursor:pointer; margin:0;">
-      Return to folio 85v
-    </button>
-  </div>
-</div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol85v.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/Paris_Archives_nationales,_K_4_no_3_detail1.jpg' | relative_url }}"
+    alt="Image of a Diploma of Chilperic II granting forest rights to the Abbey of St Denis. Dated: 28/2/717"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-3"></a><b>3) ‘Corbie’ AB minuscule: London, British Library, Harley MS 3063, f. 126r</b>. North-East France, late eighth century 
+
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/national/Harley_MS_3063_fol_126r.jpg' | relative_url }}"
+    alt=" alt="Image of British Library, Harley MS 3063, f. 126r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Cotton_Julius_Evii_fol136r.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/Harley_MS_3063_fol_126r_detail1.jpg' | relative_url }}"
+    alt=" alt="Image of British Library, Harley MS 3063, f. 126r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-<div style="margin: 1.5rem 0 0 0; max-width: 350px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<br>
+
+<a id="figure-4"></a><b>4) Luxeuil minuscule: London, British Library, Add. MS. 11878, f. 11r</b>. France, Luxeuil, eighth century
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Lindisfarne_Gospels_fol27r.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/BL_Add_MS_11878_fol_11r.jpg' | relative_url }}"
+    alt=" alt="Image of London, British Library, Add MS 11878, f. 11r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Rutland_Psalter_fol17r.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/BL_Add_MS_11878_fol_11r_detail1.jpg' | relative_url }}"
+    alt=" alt="Image of London, British Library, Add MS 11878, f. 11r"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-5"></a><b>5) Visigothic minuscule: London, British Library, Add. MS. 30844, f. 41v</b>. Spain, 10th century
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/national/BL_Add_MS_30844_fol_41v.jpg' | relative_url }}"
+    alt=" alt="Image of London, British Library, Add. MS. 30844, f. 41v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r_hyphen.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/BL_Add_MS_30844_fol_41v_detail1.jpg' | relative_url }}"
+    alt=" alt="Image of London, British Library, Add. MS. 30844, f. 41v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+
+<br>
+
+<a id="figure-6"></a><b>6) Insular minuscule: Paris, Bibliothèque nationale de France, Latin 10837, fol. 42v</b>. Echternach, 8th century
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/national/BnF_Latin_10837_fol_42v.jpg' | relative_url }}"
+    alt=" alt="Image of Paris, Bibliothèque nationale de France, Latin 10837, fol. 42v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Bodleian_Library_MS_Laud_Misc_271_fol98r.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/BnF_Latin_10837_fol_42v_detail1.jpg' | relative_url }}"
+    alt=" alt="Image of Paris, Bibliothèque nationale de France, Latin 10837, fol. 42v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-<div style="margin: 1.5rem 0 0 0; max-width: 350px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
-  <img
-    src="{{ 'images/decorative/linefillers/MS_Bodl_756_fol64r.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
-    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
-</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="504" height="144" alt="image" src="https://github.com/user-attachments/assets/65198ca4-e10a-4b71-9f9a-a87fef9206c5" />
+</b></b>
+  
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/linefillers/Royal_MS_2_Dxi.jpg' | relative_url }}"
-    alt="London, British Library.... (line fillers)"
+    src="{{ 'images/national/spectrum.jpg' | relative_url }}"
+    alt="Image of the variation in the forms of the letters a, s, d, g, r"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
