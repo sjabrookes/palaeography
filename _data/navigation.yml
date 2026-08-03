@@ -23,14 +23,7 @@ scripts:
         url: /gothic_grades/
   - title: "Script and Decoration"
     children:
-      - title: "Carmina Figurata"
+      - title: "Carmina Figurata and Text Blocks"
         url: /carmina/
       - title: "Micrography"
         url: /micrography/
-      - title: "Zoomorphic and Living Letters"
-        url: /zoom/
-
-  - title: "Digital Palaeography"
-    children:
-      - title: "Afterword"
-        url: /afterword/
