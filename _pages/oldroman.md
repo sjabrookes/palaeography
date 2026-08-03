@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Roman Scripts"
+title: "Old Roman System"
 permalink: /oldroman/
 ---
 
