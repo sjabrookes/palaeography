@@ -119,7 +119,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-7"</a>><b>7) British Library, The Sana'a Pentateuch, Or. MS. 2348, fol. 39г</b>. Pentateuch, Sana'a, Yemen, in 1469
+<a id="figure-7"</a><b>7) British Library, The Sana'a Pentateuch, Or. MS. 2348, fol. 39г</b>. Pentateuch, Sana'a, Yemen, in 1469
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
