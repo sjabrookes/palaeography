@@ -35,8 +35,8 @@ scripts:
         url: /micrography/
       - title: "Zoomorphic and Living Letters"
         url: /zoom/
-     
+
   - title: "Digital Palaeography"
-   children:
+    children:
       - title: "Afterword"
         url: /dpal/
