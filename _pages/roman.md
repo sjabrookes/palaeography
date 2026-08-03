@@ -4,7 +4,7 @@ title: "Roman Scripts"
 permalink: /roman/
 ---
 
-<a id="figure-1"><b>1) Trajan's Column</b>. ???</a>
+<a id="figure-1"><b>1) Trajan's Column</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -15,7 +15,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1) Arch of Titus</b></a>
+<a id="figure-2"><b>2) Arch of Titus</b>, <i>c</i>. 81 CE</a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -25,8 +25,6 @@ permalink: /roman/
 </div>
 
 <br>
-
-<a id="figure-1"><b>1) Arch of Titus (detail)</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -37,18 +35,18 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1) Trajan's column</b></a>
+<a id="figure-3"></a><b>3) Trajan's column</b>, 113 CE
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/trajan-bilinear.jpg' | relative_url }}"
+    src="{{ 'images/roman/trajan.jpg' | relative_url }}"
     alt="Image of text on pedestal of Trajan's column"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <br>
 
-<a id="figure-1"><b>1) Trajan's column</b></a>
+<a id="figure-4"><b>4) Trajan's column</b></a>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -59,11 +57,11 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-1"><b>1)S Galle Stiftsbibliothek_Cod_Sang_1394_p_3</b></a>
+<a id="figure-5"></a><b>5)St Gallen Stiftsbibliothek, Cod. Sang. 1394, p. 3</b><I>c</i>. 450–500
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/St_Gallen_Stiftsbibliothek_Cod_Sang_1394_p_31' | relative_url }}"
+    src="{{ 'images/roman/st_gallen_stiftsbibliothek_cod_sang_1394_p_31' | relative_url }}"
     alt="Image of text on pedestal of Trajan's column"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
