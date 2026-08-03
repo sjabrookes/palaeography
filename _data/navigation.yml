@@ -15,16 +15,10 @@ scripts:
     children:
       - title: "Overview"
         url: /national/
-  - title: "Insular Scripts"
-    children:
-      - title: "Insular minuscule"
-        url: /insular/
   - title: "Caroline Minuscule"
     children:
-      - title: "Examples"
+      - title: "Caroline Minuscule"
         url: /carolineminuscule/
-      - title: "English Caroline minuscule"
-        url: /englishcarolineminuscule/
   - title: "Gothic"
     children:
       - title: "Early Gothic"
@@ -43,16 +37,10 @@ scripts:
         url: /carmina/
       - title: "Micrography"
         url: /micrography/
-      - title: "Digital Palaeography"
-        url: /dpal/
-      - title: "Decorative script"
-        url: /decorative1/
-      - title: "Line fillers"
-        url: /decorative2/
-      - title: "Carmina Figurata"
-        url: /carmina/
-      - title: "Micrography"
-        url: /micrography/
-
+      - title: "Zoomorphic and Living Letters"
+        url: /zoom/
+     
   - title: "Digital Palaeography"
-    url: /dpal/
+   children:
+      - title: "Afterword"
+        url: /dpal/
