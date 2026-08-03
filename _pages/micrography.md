@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Micrography: Figures D26-D36"
+title: "Micrography"
 permalink: /micrography/
 ---
 
