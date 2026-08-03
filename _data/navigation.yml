@@ -13,7 +13,7 @@ scripts:
         url: /national/
   - title: "Caroline Minuscule"
     children:
-      - title: "Caroline Minuscule"
+      - title: "Overview"
         url: /carolineminuscule/
   - title: "Gothic"
     children:
