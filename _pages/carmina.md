@@ -44,7 +44,7 @@ permalink: /carmina/
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/decorative/carmina/Or_2733,_fol_51v' | relative_url }}"
+    src="{{ 'images/decorative/carmina/Or_2733,_fol_51v.jpg' | relative_url }}"
     alt="Image of London, British Library, Or. MS. 2733, fol. 51v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
