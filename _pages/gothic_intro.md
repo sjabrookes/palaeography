@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Gothic Examples"
-permalink: /gothic_intro/
+title: "Gothic"
+permalink: /gothic/
 ---
 
 {::nomarkdown}
