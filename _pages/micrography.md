@@ -6,7 +6,7 @@ permalink: /micrography/
 
 <!-- Bodleian block -->
 
-<a id="figure-G1"><b>Figure D26: Oxford, Bodleian Library, MS. Canonici Or. 137, fol. 1v (detail)</b>. Hebrew Bible, with Targum Onḳelos after each verse, Ashkenaz, <i>c</i>. 1300</a>
+<a id="figure-1"></a><b>1) Oxford, Bodleian Library, MS. Canonici Or. 137, fol. 1v (detail)</b>. Hebrew Bible, with Targum Onḳelos after each verse, Ashkenaz, <i>c</i>. 1300
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -39,7 +39,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D32: British Library, Or. MS. 2091, fol. 254r</b>. ???</a>
+<a id="figure-2"></a><b>2) British Library, Or. MS. 2091, fol. 254r</b>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -48,7 +48,7 @@ permalink: /micrography/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-<a id="figure-G1"><b>Figure D32: British Library, Or. MS. 2091, fol. 268r</b>. ???</a>
+<a id="figure-3"></a><b>3) British Library, Or. MS. 2091, fol. 268r</b>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -59,7 +59,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D31: British Library, Add. MS. 21160, fol. 201v</b> ???</a>
+<a id="figure-4"></a><b>4) British Library, Add. MS. 21160, fol. 201v</b>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -79,7 +79,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D32: British Library, Add. MS. 21160, fol. 292r</b>. ???</a>
+<a id="figure-5"></a><b>5) British Library, Add. MS. 21160, fol. 292r</b>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -99,7 +99,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D32: British Library, Add. MS. 15282 fol. 28r</b>. ???</a>
+<a id="figure-6"></a><b>6) British Library, Add. MS. 15282 fol. 28r</b>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -119,7 +119,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D30: British Library, Or. MS. 2348, fol. 39г</b>. ???</a>
+<a id="figure-7"</a>><b>7) British Library, The Sana'a Pentateuch, Or. MS. 2348, fol. 39г</b>. Pentateuch, Sana'a, Yemen, in 1469
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -139,7 +139,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D27: Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r</b>. Hebrew Bible, Yemen, 1478</a>
+<a id="figure-8"></a><b>8) Oxford, Bodleian Library, MS. Oppenheim Add. 4° 97a, fol. 2r</b>. Hebrew Bible, Yemen, 1478
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -150,7 +150,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D28: Jewish Theological Seminary, MS. L58, Image40</b>. Pentateuch and Psalm fragments, Yemen, 15th century</a>
+<a id="figure-9"></a><b>9) Jewish Theological Seminary, MS. L58, Image40</b>. Pentateuch and Psalm fragments, Yemen, 15th century
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -161,7 +161,7 @@ permalink: /micrography/
 
 <br>
 
-<a id="figure-G1"><b>Figure D29: Columbia, MS. General 364</b>. ???</a>
+<a id="figure-10"></a><b>10) Columbia, MS. General 364</b>. Pentateuch with the commentary of Rabbi Jacob ben Asher, Yemen, 1679
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -169,3 +169,4 @@ permalink: /micrography/
     alt="Image of Columbia, MS. General 364"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
+
