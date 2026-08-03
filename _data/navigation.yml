@@ -2,9 +2,7 @@ main:
 
 scripts:
   - title: "Roman Scripts"
-    children:
-      - title: "Examples"
-        url: /roman/
+          url: /roman/
   - title: "National Scripts"
     children:
       - title: "Examples"
