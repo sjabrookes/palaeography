@@ -1,6 +1,4 @@
 main:
-  - title: "Overview"
-    url: /overview/
 
 scripts:
   - title: "Roman Scripts"
