@@ -1,17 +1,19 @@
 main:
   - title: "Overview"
-    children:
-      - title: "Examples"
-        url: /overview/
+    url: /overview/
 
 scripts:
   - title: "Roman Scripts"
     children:
-      - title: "Square Capitals and Rustic Capitals"
+      - title: "Square and Rustic Capitals"
         url: /roman/
+      - title: "Old Roman"
+        url: /oldroman/
+      - title: "New Roman"
+        url: /newroman/
   - title: "National Scripts"
     children:
-      - title: "Examples"
+      - title: "Overview"
         url: /national/
   - title: "Insular Scripts"
     children:
