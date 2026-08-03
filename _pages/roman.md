@@ -51,7 +51,7 @@ permalink: /roman/
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/roman/funerary_relief.jpg' | relative_url }}"
-    alt="Image of text on pedestal of Trajan's column"
+    alt="Image of Roman funerary relief"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
@@ -76,11 +76,11 @@ permalink: /roman/
 <br>
 
 <a id="figure-6"></a><b>6) Square Capitals: Staatsbibliothek zu Berlin, fol. 416</b>. Italy, <i>c</i>. 350 CE
-  
+
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/roman/staatsbibliothek_zu_berlin_at_fol_416.jpg' | relative_url }}"
-    alt="Image of Staatsbibliothek zu Berlin, fol. 416"
+    alt="Image of of Staatsbibliothek zu Berlin, fol. 416"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
@@ -91,7 +91,7 @@ permalink: /roman/
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/roman/st_gallen_stiftsbibliothek_cod_sang_1394_p_31.jpg' | relative_url }}"
-    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
+    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, page 3v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
@@ -112,5 +112,3 @@ permalink: /roman/
     alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
-
-
