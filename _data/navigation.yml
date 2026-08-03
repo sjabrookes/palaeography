@@ -1,15 +1,14 @@
 main:
-
- - title: "Overview"
-  children:
+  - title: "Overview"
+    children:
       - title: "Examples"
-          url: /overview/      
+        url: /overview/
 
 scripts:
   - title: "Roman Scripts"
-  children:
+    children:
       - title: "Square Capitals and Rustic Capitals"
-          url: /roman/          
+        url: /roman/
   - title: "National Scripts"
     children:
       - title: "Examples"
@@ -44,3 +43,15 @@ scripts:
         url: /micrography/
       - title: "Digital Palaeography"
         url: /dpal/
+      - title: "Decorative script"
+        url: /decorative1/
+      - title: "Line fillers"
+        url: /decorative2/
+      - title: "Carmina Figurata"
+        url: /carmina/
+      - title: "Micrography"
+        url: /micrography/
+
+
+  - title: "Digital Palaeography"
+      
