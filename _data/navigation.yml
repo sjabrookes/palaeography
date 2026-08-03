@@ -6,7 +6,7 @@ scripts:
   - title: "Roman Scripts"
     children:
       - title: "Old Roman System"
-        url: /roman/
+        url: /oldroman/
       - title: "New Roman System"
         url: /newroman/
   - title: "National Scripts"
