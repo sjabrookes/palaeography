@@ -61,7 +61,14 @@ permalink: /roman/
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/st_gallen_stiftsbibliothek_cod_sang_1394_p_3.jpg1' | relative_url }}"
+    src="{{ 'images/roman/vatican_city_biblioteca_apostolica_vaticana_vat_lat_3256_fol_3v.jpg' | relative_url }}"
+    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3256, fol 3v (Detail)"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/vatican_city_biblioteca_apostolica_vaticana_vat_lat_3256_fol_3v_detail3.jpg' | relative_url }}"
     alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3256, fol 3v (Detail)"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
@@ -72,22 +79,31 @@ permalink: /roman/
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/st_gallen_stiftsbibliothek_cod_sang_1394_p_3.jpg1' | relative_url }}"
+    src="{{ 'images/roman/staatsbibliothek_zu_berlin_at_fol_416' | relative_url }}"
     alt="Image of Staatsbibliothek zu Berlin, fol. 416"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <br>
 
-<a id="figure-7"></a><b>7) St Gallen Stiftsbibliothek, Cod. Sang. 1394, p. 3</b>, Italy, <i>c</i>. 450–500
+<a id="figure-7"></a><b>7) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v</b>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/roman/st_gallen_stiftsbibliothek_cod_sang_1394_p_31.jpg' | relative_url }}"
-    alt="Image of text on pedestal of Trajan's column"
+    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <br>
+
+<a id="figure-9"></a><b>9) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v (Detail)
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/vatican_city_biblioteca_postolica_vaticana_vat_lat_3867_fol_3v.jpg' | relative_url }}"
+    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
 
 
