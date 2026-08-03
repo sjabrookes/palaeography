@@ -57,7 +57,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-5"></a><b>5) Square Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3256, fol 3v (Detail)</b>, Italy, <i>c</i>. 350 CE
+<a id="figure-5"></a><b>5) Square Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3256, fol 3v (Detail)</b>. Italy, <i>c</i>. 350 CE
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -75,7 +75,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-6"></a><b>6) Square Capitals: Staatsbibliothek zu Berlin, fol. 416</b>, Italy, <i>c</i>. 450–500 CE
+<a id="figure-6"></a><b>6) Square Capitals: Staatsbibliothek zu Berlin, fol. 416</b>. Italy, <i>c</i>. 350 CE
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -86,7 +86,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-7"></a><b>7) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v</b>
+<a id="figure-7"></a><b>7) Square Capitals: St Gallen, Stiftsbibliothek, Cod. sang. 1394, p. 31</b>. Italy, <i>c</i>. 450–500 CE
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -97,11 +97,18 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-9"></a><b>9) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v (Detail)
+<a id="figure-9"></a><b>8) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v (Detail)
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
     src="{{ 'images/roman/vatican_city_biblioteca_postolica_vaticana_vat_lat_3867_fol_3v.jpg' | relative_url }}"
+    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/vatican_city_biblioteca_postolica_vaticana_vat_lat_3867_fol_3v_detail2.jpg' | relative_url }}"
     alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
