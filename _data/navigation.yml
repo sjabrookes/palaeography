@@ -5,11 +5,9 @@ main:
 scripts:
   - title: "Roman Scripts"
     children:
-      - title: "Square and Rustic Capitals"
+      - title: "Old Roman System"
         url: /roman/
-      - title: "Old Roman"
-        url: /oldroman/
-      - title: "New Roman"
+      - title: "New Roman System"
         url: /newroman/
   - title: "National Scripts"
     children:
