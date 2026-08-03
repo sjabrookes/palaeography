@@ -2,7 +2,9 @@ main:
 
 scripts:
   - title: "Roman Scripts"
-          url: /roman/
+  children:
+      - title: "Square Capitals and Rustic Capitals"
+          url: /roman/          
   - title: "National Scripts"
     children:
       - title: "Examples"
