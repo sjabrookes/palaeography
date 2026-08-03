@@ -123,7 +123,7 @@ permalink: /gothic/
     <p style="margin-bottom: 0;">
       singulas noctes lectum meum lacri-<br>
       mís meis stratum meum rigabo.<br>
-      <b>T</b>ubatus est a furore oculus meus
+      <b>T</b>urbatus est a furore oculus meus
     </p>
   </div>
 
