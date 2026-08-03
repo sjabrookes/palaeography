@@ -79,7 +79,7 @@ permalink: /roman/
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/staatsbibliothek_zu_berlin_at_fol_416.jpg' | relative_url }}"
+    src="{{ 'images/roman/staatsbibliothek_zu_berlin_fol_416.jpg' | relative_url }}"
     alt="Image of of Staatsbibliothek zu Berlin, fol. 416"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
@@ -97,7 +97,36 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-9"></a><b>8) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v (Detail)
+<a id="figure-8"></a><b>8) (Caroline) Square Capitals: Paris, Bilbiothèque Nationale MS. Lat. 2, fol. 354v</b>. Ninth century
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/bl_kings_ms_24_fol_131v.jpg' | relative_url }}"
+    alt="Image of Paris, Bilbiothèque Nationale MS. Lat. 2, fol. 354v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-9"></a><b>9) (Renaissance) Square Capitals: London, British Library, King’s MS. 24, fol. 131v</b>. Fifteenth century
+  
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/bl_kings_ms_24_fol_131v.jpg' | relative_url }}"
+    alt="Image of London, British Library, King’s MS. 24, fol. 131v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/bl_kings_ms_24_fol_131v_detail1' | relative_url }}"
+    alt="Image of London, British Library, King’s MS. 24, fol. 131v"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<br>
+
+<a id="figure-10"></a><b>10) Rustic Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v (Detail)
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -112,3 +141,5 @@ permalink: /roman/
     alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
+
+
