@@ -28,15 +28,13 @@ permalink: /newroman/
 </div>
 
 <br>
-  
-# The Lindisfarne Gospels
 
 <a id="figure-2"></a><b>2) Half-Uncial: London, British Library, The Lindisfarne Gospels, Cotton MS. Nero D. iv, fol. 5v</b>
 
 <div style="margin: 1.5rem 2rem 0 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <iframe
     id="iiif-frame"
-    src="https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/man_10000006.0x000001&cv=65"
+    src="https://uv-v4.netlify.app/uv.html#?manifest=https://bl.digirati.io/manifests/ark:/81055/man_10000006.0x000001&cv=18"
     width="100%"
     height="800"
     style="border: 0; display: block;"
@@ -61,8 +59,6 @@ permalink: /newroman/
     alt="Image of  London, British Library, Papyrus 447, recto"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
-
-<a id="figure-3"></a><b>1) New Roman Cursive: London, British Library, Papyrus 447, recto</b>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
