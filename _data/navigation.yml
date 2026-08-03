@@ -52,6 +52,5 @@ scripts:
       - title: "Micrography"
         url: /micrography/
 
-
   - title: "Digital Palaeography"
-      
+    url: /dpal/
