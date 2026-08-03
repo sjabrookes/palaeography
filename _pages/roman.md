@@ -57,7 +57,7 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-5"></a><b>5) Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3256, fol 3v (Detail)</b>, Italy, <i>c</i>. 350 CE
+<a id="figure-5"></a><b>5) Square Capitals: Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3256, fol 3v (Detail)</b>, Italy, <i>c</i>. 350 CE
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -75,11 +75,11 @@ permalink: /roman/
 
 <br>
 
-<a id="figure-6"></a><b>6) Staatsbibliothek zu Berlin, fol. 416</b>, Italy, <i>c</i>. 450–500 CE
+<a id="figure-6"></a><b>6) Square Capitals: Staatsbibliothek zu Berlin, fol. 416</b>, Italy, <i>c</i>. 450–500 CE
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/staatsbibliothek_zu_berlin_at_fol_416' | relative_url }}"
+    src="{{ 'images/roman/staatsbibliothek_zu_berlin_at_fol_416.jpg' | relative_url }}"
     alt="Image of Staatsbibliothek zu Berlin, fol. 416"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
