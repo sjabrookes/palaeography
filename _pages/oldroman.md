@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Roman Scripts"
-permalink: /roman/
+permalink: /oldroman/
 ---
 
 <a id="figure-1"></a><b>1) Trajan's Column</b>, Rome, 113 CE
