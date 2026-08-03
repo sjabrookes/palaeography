@@ -17,18 +17,12 @@ scripts:
         url: /carolineminuscule/
   - title: "Gothic"
     children:
-      - title: "Early Gothic"
-        url: /early_gothic/
-      - title: "Intro"
-        url: /gothic_intro/
+      - title: "Overview"
+        url: /gothic/
       - title: "Grades"
         url: /gothic_grades/
   - title: "Script and Decoration"
     children:
-      - title: "Decorative script"
-        url: /decorative1/
-      - title: "Line fillers"
-        url: /decorative2/
       - title: "Carmina Figurata"
         url: /carmina/
       - title: "Micrography"
@@ -39,4 +33,4 @@ scripts:
   - title: "Digital Palaeography"
     children:
       - title: "Afterword"
-        url: /dpal/
+        url: /afterword/
