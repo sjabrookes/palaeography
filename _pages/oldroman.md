@@ -142,20 +142,25 @@ permalink: /oldroman/
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
-<a id="figure-11"></a><b>11) Old Roman Cursive: British Library, Papyrus 229, recto. 24 May 166 CE</b>
-<img width="428" height="100" alt="image" src="https://github.com/user-attachments/assets/7c46a2f5-0353-4e2b-ae7f-6ccccf53820e" />
-(Detail)</b>
+<a id="figure-11"></a><b>11) Old Roman Cursive: Florence, Biblioteca Medicea Laurenziana MS. 18104.</b> <i>c</i>. 77 CE. Contract for the sale of a horse.
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/bl_papyrus_229.jpg' | relative_url }}"
-    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
+    src="{{ 'images/roman/florence_biblioteca_medicea_laurenziana_18104.jpg' | relative_url }}"
+    alt="Image of Florence, Biblioteca Medicea Laurenziana MS. 18104"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
 
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
-    src="{{ 'images/roman/bl_papyrus_229_detail1.jpg' | relative_url }}"
-    alt="Image of Vatican City, Biblioteca Apostolica Vaticana, Vat. lat. 3867, fol 3v"
+    src="{{ 'images/roman/florence_biblioteca_medicea_laurenziana_18104_detail1.jpg' | relative_url }}"
+    alt="Image of Florence, Biblioteca Medicea Laurenziana MS. 18104"
+    style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
+</div>
+
+<div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+  <img
+    src="{{ 'images/roman/florence_biblioteca_medicea_laurenziana_18104_detail2.jpg' | relative_url }}"
+    alt="Image of Florence, Biblioteca Medicea Laurenziana MS. 18104"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
