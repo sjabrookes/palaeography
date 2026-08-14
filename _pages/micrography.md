@@ -162,10 +162,6 @@ permalink: /micrography/
 <br>
 
 <a id="figure-10"></a><b>10) Columbia, MS. General 364</b>. Pentateuch with the commentary of Rabbi Jacob ben Asher, Yemen, 1679
-<br>
-Columbia University Libraries: <a href="https://blogs.library.columbia.edu/jewishstudiesatcul/2025/02/20/manuscripts-of-the-yemenite-jewish-experience/">image</a> and 
-<a href="https://clio.columbia.edu/catalog/19214676/">description of the manuscript</a> 
-<br>
   
 <div style="margin: 1.5rem 0 0 0; max-width: 700px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
   <img
@@ -173,4 +169,9 @@ Columbia University Libraries: <a href="https://blogs.library.columbia.edu/jewis
     alt="Image of Columbia, MS. General 364"
     style="display:block; width:100%; height:auto; margin:0; border-radius:0; box-shadow:none;">
 </div>
+
+<br>
+Columbia University Libraries: <a href="https://blogs.library.columbia.edu/jewishstudiesatcul/2025/02/20/manuscripts-of-the-yemenite-jewish-experience/">image</a> and 
+<a href="https://clio.columbia.edu/catalog/19214676/">description of the manuscript</a> 
+<br>
 
