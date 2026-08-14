@@ -171,7 +171,7 @@ permalink: /micrography/
 </div>
 
 <br>
-Columbia University Libraries: <a href="https://blogs.library.columbia.edu/jewishstudiesatcul/2025/02/20/manuscripts-of-the-yemenite-jewish-experience/">image</a> and 
-<a href="https://clio.columbia.edu/catalog/19214676/">description of the manuscript</a> 
+Rare Book and Manuscript Library, Columbia University: <a href="https://blogs.library.columbia.edu/jewishstudiesatcul/2025/02/20/manuscripts-of-the-yemenite-jewish-experience/"><br>
+Image</a> and <a href="https://clio.columbia.edu/catalog/19214676/">description of the manuscript</a> 
 <br>
 
