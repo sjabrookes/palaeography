@@ -50,7 +50,7 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-3"></a><b>3) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 145r [detail]), <i>c</i>. 1320–1340</b>
+<a id="figure-3"></a><b>3) The Luttrell Psalter (British Library, Add. MS. 42130, fol. 208r [detail]), <i>c</i>. 1320–1340</b>
 <div class="figure-block">
   <img
     src="{{ '/images/Luttrell_Psalter_fol145r_detail_2b.jpg' | relative_url }}"
